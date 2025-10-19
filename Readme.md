@@ -1,4 +1,4 @@
-# Portafolio Proyectos Power Bi by Omar Castro
+# Portafolio Proyectos Power, Omar Castro
 * 01_Analisis Flotilla
 * 
 
