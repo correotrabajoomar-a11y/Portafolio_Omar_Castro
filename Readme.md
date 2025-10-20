@@ -1,6 +1,11 @@
-# Portafolio Proyectos Power Bi, Omar Castro (En Proceso)
-* 01_Control de Flota  
-![1760913754034](image/Readme/1760913754034.png)
-* 
+# Portafolio de Proyectos Muestra de Omar Castro (EN PROCESO)
+## Proyectos Power Bi
 
-![1760911907902](image/Readme/1760911907902.png)
+![1760926742418](image/Readme/1760926742418.png)    ![1760926786528](image/Readme/1760926786528.png)
+
+## Excel
+
+![1760926583640](image/Readme/1760926583640.png)
+
+## SQL
+![1760926704011](image/Readme/1760926704011.png)
