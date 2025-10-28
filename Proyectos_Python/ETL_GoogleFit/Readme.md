@@ -50,7 +50,7 @@ To consolidate data from thousands of `.tcx` files into structured formats (`.cs
 
 ## 📊 Visualizaciones | Visualizations
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; justify-content: space-between; gap: 1rem;">
 <img src="image/Readme/1761600131341.png" alt="Calorías por actividad" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />  
 
 
@@ -68,15 +68,17 @@ To consolidate data from thousands of `.tcx` files into structured formats (`.cs
 | `.sql` | Scripts para base de datos | Carga en SQL Server |
 
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; justify-content: space-between; gap: 1rem;">
+
   <img src="image/Readme/1761614456284.png" alt="Archivos CSV" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 
 
-  <img src="image/Readme/1761614644619.png" alt="Archivos JSON" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
+  <img src="image/Readme/1761614779233.png"    alt="Archivos JSON" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 </div>
 
 
-<img src="image/Readme/1761614779233.png" alt="Scripts SQL" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
+
+<img src="image/Readme/1761614644619.png" alt="Scripts SQL" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 
 ---
 
