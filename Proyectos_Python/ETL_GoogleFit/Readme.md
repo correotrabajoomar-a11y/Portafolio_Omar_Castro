@@ -51,8 +51,10 @@ To consolidate data from thousands of `.tcx` files into structured formats (`.cs
 ## 📊 Visualizaciones | Visualizations
 
 <div style="display: flex; gap: 1rem;">
-<img src="image/Readme/1761600131341.png" alt="Calorías por actividad" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />  
-<img src="image/Readme/1761608091173.png" alt="Distancia acumulada" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />  
+<img src="image/Readme/1761600131341.png" alt="Calorías por actividad" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />  
+
+
+<img src="image/Readme/1761608091173.png" alt="Distancia acumulada" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />  
 </div>
 
 ---
@@ -67,12 +69,14 @@ To consolidate data from thousands of `.tcx` files into structured formats (`.cs
 
 
 <div style="display: flex; gap: 1rem;">
-  <img src="image/Readme/1761614456284.png" alt="Archivos CSV" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />
-  <img src="image/Readme/1761614644619.png" alt="Archivos JSON" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />
+  <img src="image/Readme/1761614456284.png" alt="Archivos CSV" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
+
+
+  <img src="image/Readme/1761614644619.png" alt="Archivos JSON" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 </div>
 
 
-<img src="image/Readme/1761614779233.png" alt="Scripts SQL" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />
+<img src="image/Readme/1761614779233.png" alt="Scripts SQL" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 
 ---
 
