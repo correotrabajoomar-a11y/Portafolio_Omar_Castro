@@ -1,6 +1,7 @@
 # Analisis Google Fit ![1761613374687](image/Readme/1761613374687.png)
 
-## Extracción de información de una base del servicio Google Takeout contenida en carpeta local, archivos .tcx (Training Center XML) utilizados para almacenar datos de actividad fisica en aplicaciones tipo: google Fit, Strava, Garmin, etc. :bicycle:
+## Extracción de información de una base del servicio Google Takeout contenida en carpeta local, archivos .tcx (Training Center XML) utilizados para almacenar datos de actividad fisica en aplicaciones tipo: google Fit, Strava, Garmin, etc. 
+![1761615690990](image/Readme/1761615690990.png):bicycle:
 
 ![1761613415727](image/Readme/1761613415727.png)
 
