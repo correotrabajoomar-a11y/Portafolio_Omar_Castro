@@ -1,0 +1,3252 @@
+[
+    {
+        "Archivo": "2016-01-08T16_16_37-06_00_PT25M22S_Correr.tcx",
+        "Tipo de deporte": "Running",
+        "Inicio": "08/01/2016 22:16:37",
+        "Fin": "08/01/2016 22:41:59",
+        "Duración (min)": 25.37,
+        "Distancia total (km)": 3.96,
+        "Velocidad promedio (km/h)": 9.36,
+        "Calorías": 299
+    },
+    {
+        "Archivo": "2016-01-10T08_58_11.378-06_00_PT55M1.851S_Bicicleta.tcx",
+        "Tipo de deporte": "Biking",
+        "Inicio": "10/01/2016 14:58:11",
+        "Fin": "10/01/2016 15:58:15",
+        "Duración (min)": 60.07,
+        "Distancia total (km)": 6.08,
+        "Velocidad promedio (km/h)": 6.08,
+        "Calorías": 438
+    },
+    {
+        "Archivo": "2016-01-11T19_48_18-06_00_PT20M9S_Correr.tcx",
+        "Tipo de deporte": "Running",
+        "Inicio": "12/01/2016 01:48:18",
+        "Fin": "12/01/2016 02:08:27",
+        "Duración (min)": 20.15,
+        "Distancia total (km)": 3.12,
+        "Velocidad promedio (km/h)": 9.28,
+        "Calorías": 254
+    },
+    {
+        "Archivo": "2016-01-13T20_02_02-06_00_PT15M38S_Correr.tcx",
+        "Tipo de deporte": "Running",
+        "Inicio": "14/01/2016 02:02:02",
+        "Fin": "14/01/2016 02:17:40",
+        "Duración (min)": 15.63,
+        "Distancia total (km)": 1.51,
+        "Velocidad promedio (km/h)": 5.81,
+        "Calorías": 64
+    },
+    {
+        "Archivo": "2016-01-13T20_18_36.45-06_00_PT14M0.703S_Correr.tcx",
+        "Tipo de deporte": "Running",
+        "Inicio": "14/01/2016 02:18:36",
+        "Fin": "14/01/2016 02:32:37",
+        "Duración (min)": 14.01,
+        "Distancia total (km)": 2.49,
+        "Velocidad promedio (km/h)": 10.68,
+        "Calorías": 225
+    },
+    {
+        "Archivo": "2016-01-15T16_23_27.021-06_00_PT25M19.661S_Correr.tcx",
+        "Tipo de deporte": "Running",
+        "Inicio": "15/01/2016 22:23:27",
+        "Fin": "15/01/2016 22:48:46",
+        "Duración (min)": 25.33,
+        "Distancia total (km)": 4.22,
+        "Velocidad promedio (km/h)": 10.0,
+        "Calorías": 383
+    },
+    {
+        "Archivo": "2016-01-20T15_00_48.313-06_00_PT25M_Aeróbica.tcx",
+        "Tipo de deporte": "Aerobics",
+        "Inicio": "20/01/2016 21:00:48",
+        "Fin": "20/01/2016 21:25:48",
+        "Duración (min)": 25.0,
+        "Distancia total (km)": 0.0,
+        "Velocidad promedio (km/h)": 0.0,
+        "Calorías": 233
+    },
+    {
+        "Archivo": "2016-01-20T16_25_02.375-06_00_PT5M21.256S_Correr.tcx",
+        "Tipo de deporte": "Running",
+        "Inicio": "20/01/2016 22:25:02",
+        "Fin": "20/01/2016 22:30:23",
+        "Duración (min)": 5.35,
+        "Distancia total (km)": 0.68,
+        "Velocidad promedio (km/h)": 7.6,
+        "Calorías": 63
+    },
+    {
+        "Archivo": "2016-01-22T18_11_44.177-06_00_PT6M30S_Entrenamient.tcx",
+        "Tipo de deporte": "Strength_training",
+        "Inicio": "23/01/2016 00:11:44",
+        "Fin": "23/01/2016 00:18:14",
+        "Duración (min)": 6.5,
+        "Distancia total (km)": 0.01,
+        "Velocidad promedio (km/h)": 0.06,
+        "Calorías": 27
+    },
+    {
+        "Archivo": "2016-01-25T07_06_28.337-06_00_PT5M_Calistenia.tcx",
+        "Tipo de deporte": "Calisthenics",
+        "Inicio": "25/01/2016 13:06:28",
+        "Fin": "25/01/2016 13:11:28",
+        "Duración (min)": 5.0,
+        "Distancia total (km)": 0.0,
+        "Velocidad promedio (km/h)": 0.0,
+        "Calorías": 20
+    },
+    {
+        "Archivo": "2016-01-29T18_02_34.037-06_00_PT5M_Calistenia.tcx",
+        "Tipo de deporte": "Calisthenics",
+        "Inicio": "30/01/2016 00:02:34",
+        "Fin": "30/01/2016 00:07:34",
+        "Duración (min)": 5.0,
+        "Distancia total (km)": 0.0,
+        "Velocidad promedio (km/h)": 0.0,
+        "Calorías": 20
+    },
+    {
+        "Archivo": "2016-01-29T18_12_22.806-06_00_PT15M_Entrenamiento_.tcx",
+        "Tipo de deporte": "Strength_training",
+        "Inicio": "30/01/2016 00:12:22",
+        "Fin": "30/01/2016 00:27:22",
+        "Duración (min)": 15.0,
+        "Distancia total (km)": 0.01,
+        "Velocidad promedio (km/h)": 0.03,
+        "Calorías": 62
+    },
+    {
+        "Archivo": "2016-02-05T18_28_14.134-06_00_PT15M_Entrenamiento_.tcx",
+        "Tipo de deporte": "Strength_training",
+        "Inicio": "06/02/2016 00:28:14",
+        "Fin": "06/02/2016 00:43:14",
+        "Duración (min)": 15.0,
+        "Distancia total (km)": 0.01,
+        "Velocidad promedio (km/h)": 0.02,
+        "Calorías": 62
+    },
+    {
+        "Archivo": "2016-02-05T20_00_51.015-06_00_PT40M_Fútbol.tcx",
+        "Tipo de deporte": "Football.soccer",
+        "Inicio": "06/02/2016 02:00:51",
+        "Fin": "06/02/2016 02:40:51",
+        "Duración (min)": 40.0,
+        "Distancia total (km)": 0.6,
+        "Velocidad promedio (km/h)": 0.9,
+        "Calorías": 383
+    },
+    {
+        "Archivo": "2016-02-22T20_00_38.613-06_00_PT20M_Levantamiento_.tcx",
+        "Tipo de deporte": "Weightlifting",
+        "Inicio": "23/02/2016 02:00:38",
+        "Fin": "23/02/2016 02:20:38",
+        "Duración (min)": 20.0,
+        "Distancia total (km)": 0.0,
+        "Velocidad promedio (km/h)": 0.0,
+        "Calorías": 166
+    },
+    {
+        "Archivo": "2016-06-26T06_58_00.68-05_00_PT34M17.834S_Bicicleta.tcx",
+        "Tipo de deporte": "Biking",
+        "Inicio": "26/06/2016 11:58:00",
+        "Fin": "26/06/2016 12:32:18",
+        "Duración (min)": 34.3,
+        "Distancia total (km)": 8.87,
+        "Velocidad promedio (km/h)": 15.51,
+        "Calorías": 189
+    },
+    {
+        "Archivo": "2016-06-26T07_34_19.379-05_00_PT1H5M.237S_Bicicleta.tcx",
+        "Tipo de deporte": "Biking",
+        "Inicio": "26/06/2016 12:34:19",
+        "Fin": "26/06/2016 13:41:26",
+        "Duración (min)": 67.12,
+        "Distancia total (km)": 12.57,
+        "Velocidad promedio (km/h)": 11.24,
+        "Calorías": 397
+    },
+    {
+        "Archivo": "2016-07-08T06_24_06-05_00_PT1H1M20.045S_Ciclismo d.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/07/2016 11:24:06",
+        "Fin": "08/07/2016 12:29:44",
+        "Duración (min)": 65.63,
+        "Distancia total (km)": 7.47,
+        "Velocidad promedio (km/h)": 6.83,
+        "Calorías": 489
+    },
+    {
+        "Archivo": "2016-07-10T06_41_05-05_00_PT48M19.005S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/07/2016 11:41:05",
+        "Fin": "10/07/2016 12:30:19",
+        "Duración (min)": 49.23,
+        "Distancia total (km)": 7.57,
+        "Velocidad promedio (km/h)": 9.22,
+        "Calorías": 237
+    },
+    {
+        "Archivo": "2016-07-10T07_45_58-05_00_PT49M58.698S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/07/2016 12:45:58",
+        "Fin": "10/07/2016 13:41:19",
+        "Duración (min)": 55.35,
+        "Distancia total (km)": 10.4,
+        "Velocidad promedio (km/h)": 11.27,
+        "Calorías": 247
+    },
+    {
+        "Archivo": "2016-07-17T07_38_23-05_00_PT1H8M23.994S_Ciclismo d.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "17/07/2016 12:38:23",
+        "Fin": "17/07/2016 13:49:36",
+        "Duración (min)": 71.22,
+        "Distancia total (km)": 10.33,
+        "Velocidad promedio (km/h)": 8.7,
+        "Calorías": 436
+    },
+    {
+        "Archivo": "2016-07-24T19_42_12-05_00_PT51M3.994S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/07/2016 00:42:12",
+        "Fin": "25/07/2016 01:35:41",
+        "Duración (min)": 53.48,
+        "Distancia total (km)": 8.94,
+        "Velocidad promedio (km/h)": 10.02,
+        "Calorías": 288
+    },
+    {
+        "Archivo": "2016-07-31T07_39_16-05_00_PT57M57.079S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "31/07/2016 12:39:16",
+        "Fin": "31/07/2016 13:37:54",
+        "Duración (min)": 58.63,
+        "Distancia total (km)": 7.95,
+        "Velocidad promedio (km/h)": 8.14,
+        "Calorías": 380
+    },
+    {
+        "Archivo": "2016-08-07T07_33_09-05_00_PT1H49M24.044S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/08/2016 12:33:09",
+        "Fin": "07/08/2016 14:27:44",
+        "Duración (min)": 114.58,
+        "Distancia total (km)": 14.15,
+        "Velocidad promedio (km/h)": 7.41,
+        "Calorías": 557
+    },
+    {
+        "Archivo": "2016-08-14T07_44_04-05_00_PT1H33M37.212S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "14/08/2016 12:44:04",
+        "Fin": "14/08/2016 14:23:28",
+        "Duración (min)": 99.4,
+        "Distancia total (km)": 7.21,
+        "Velocidad promedio (km/h)": 4.35,
+        "Calorías": 697
+    },
+    {
+        "Archivo": "2016-09-11T07_34_14-05_00_PT2H18M29.806S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/09/2016 12:34:14",
+        "Fin": "11/09/2016 15:03:18",
+        "Duración (min)": 149.07,
+        "Distancia total (km)": 7.83,
+        "Velocidad promedio (km/h)": 3.15,
+        "Calorías": 679
+    },
+    {
+        "Archivo": "2016-09-20T16_55_14-05_00_PT52M37.63S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/09/2016 21:55:14",
+        "Fin": "20/09/2016 22:49:22",
+        "Duración (min)": 54.13,
+        "Distancia total (km)": 7.3,
+        "Velocidad promedio (km/h)": 8.09,
+        "Calorías": 488
+    },
+    {
+        "Archivo": "2016-09-25T07_22_12-05_00_PT2H28M33.871S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/09/2016 12:22:12",
+        "Fin": "25/09/2016 15:03:56",
+        "Duración (min)": 161.73,
+        "Distancia total (km)": 5.3,
+        "Velocidad promedio (km/h)": 1.97,
+        "Calorías": 886
+    },
+    {
+        "Archivo": "2016-10-02T07_48_39-05_00_PT59M37.314S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/10/2016 12:48:39",
+        "Fin": "02/10/2016 13:51:58",
+        "Duración (min)": 63.32,
+        "Distancia total (km)": 9.3,
+        "Velocidad promedio (km/h)": 8.81,
+        "Calorías": 418
+    },
+    {
+        "Archivo": "2016-10-09T07_45_41-05_00_PT1H38M54.884S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/10/2016 12:45:41",
+        "Fin": "09/10/2016 14:53:48",
+        "Duración (min)": 128.12,
+        "Distancia total (km)": 5.81,
+        "Velocidad promedio (km/h)": 2.72,
+        "Calorías": 790
+    },
+    {
+        "Archivo": "2016-10-16T07_44_19-05_00_PT51M9.721S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/10/2016 12:44:19",
+        "Fin": "16/10/2016 13:38:48",
+        "Duración (min)": 54.48,
+        "Distancia total (km)": 10.14,
+        "Velocidad promedio (km/h)": 11.17,
+        "Calorías": 512
+    },
+    {
+        "Archivo": "2016-10-23T08_04_26-05_00_PT1H40M49.264S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/10/2016 13:04:26",
+        "Fin": "23/10/2016 14:57:03",
+        "Duración (min)": 112.62,
+        "Distancia total (km)": 9.87,
+        "Velocidad promedio (km/h)": 5.26,
+        "Calorías": 599
+    },
+    {
+        "Archivo": "2016-12-02T06_22_28-06_00_PT30M42.203S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/12/2016 12:22:28",
+        "Fin": "02/12/2016 12:55:04",
+        "Duración (min)": 32.6,
+        "Distancia total (km)": 3.53,
+        "Velocidad promedio (km/h)": 6.49,
+        "Calorías": 246
+    },
+    {
+        "Archivo": "2016-12-04T06_17_37-06_00_PT31M30.989S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/12/2016 12:17:37",
+        "Fin": "04/12/2016 12:49:48",
+        "Duración (min)": 32.18,
+        "Distancia total (km)": 4.91,
+        "Velocidad promedio (km/h)": 9.16,
+        "Calorías": 131
+    },
+    {
+        "Archivo": "2016-12-28T08_14_31-06_00_PT50M58.978S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/12/2016 14:14:31",
+        "Fin": "28/12/2016 15:06:38",
+        "Duración (min)": 52.12,
+        "Distancia total (km)": 14.45,
+        "Velocidad promedio (km/h)": 16.63,
+        "Calorías": 384
+    },
+    {
+        "Archivo": "2017-01-03T06_30_00-06_00_PT24M56.572S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/01/2017 12:30:00",
+        "Fin": "03/01/2017 12:55:18",
+        "Duración (min)": 25.3,
+        "Distancia total (km)": 5.22,
+        "Velocidad promedio (km/h)": 12.38,
+        "Calorías": 188
+    },
+    {
+        "Archivo": "2017-01-03T15_15_36-06_00_PT35M38.896S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/01/2017 21:15:36",
+        "Fin": "03/01/2017 21:55:18",
+        "Duración (min)": 39.7,
+        "Distancia total (km)": 3.35,
+        "Velocidad promedio (km/h)": 5.07,
+        "Calorías": 184
+    },
+    {
+        "Archivo": "2017-01-04T06_17_05-06_00_PT26M53.99S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/01/2017 12:17:05",
+        "Fin": "04/01/2017 12:47:40",
+        "Duración (min)": 30.58,
+        "Distancia total (km)": 6.86,
+        "Velocidad promedio (km/h)": 13.46,
+        "Calorías": 169
+    },
+    {
+        "Archivo": "2017-01-04T15_10_47-06_00_PT40M15.966S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/01/2017 21:10:47",
+        "Fin": "04/01/2017 21:54:42",
+        "Duración (min)": 43.92,
+        "Distancia total (km)": 3.66,
+        "Velocidad promedio (km/h)": 5.0,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-01-05T06_13_25-06_00_PT27M26.991S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/01/2017 12:13:25",
+        "Fin": "05/01/2017 12:41:41",
+        "Duración (min)": 28.27,
+        "Distancia total (km)": 5.46,
+        "Velocidad promedio (km/h)": 11.58,
+        "Calorías": 180
+    },
+    {
+        "Archivo": "2017-01-05T15_07_09-06_00_PT32M24.046S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/01/2017 21:07:09",
+        "Fin": "05/01/2017 21:43:26",
+        "Duración (min)": 36.28,
+        "Distancia total (km)": 2.95,
+        "Velocidad promedio (km/h)": 4.88,
+        "Calorías": 134
+    },
+    {
+        "Archivo": "2017-01-06T06_17_55-06_00_PT27M39.016S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/01/2017 12:17:55",
+        "Fin": "06/01/2017 12:46:09",
+        "Duración (min)": 28.23,
+        "Distancia total (km)": 7.51,
+        "Velocidad promedio (km/h)": 15.96,
+        "Calorías": 182
+    },
+    {
+        "Archivo": "2017-01-06T14_53_20-06_00_PT29M22.984S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/01/2017 20:53:20",
+        "Fin": "06/01/2017 21:23:49",
+        "Duración (min)": 30.48,
+        "Distancia total (km)": 4.36,
+        "Velocidad promedio (km/h)": 8.57,
+        "Calorías": 166
+    },
+    {
+        "Archivo": "2017-01-08T06_23_10-06_00_PT28M47.022S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/01/2017 12:23:10",
+        "Fin": "08/01/2017 12:52:07",
+        "Duración (min)": 28.95,
+        "Distancia total (km)": 4.92,
+        "Velocidad promedio (km/h)": 10.19,
+        "Calorías": 168
+    },
+    {
+        "Archivo": "2017-01-08T15_11_00-06_00_PT29M15.925S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/01/2017 21:11:00",
+        "Fin": "08/01/2017 21:40:37",
+        "Duración (min)": 29.62,
+        "Distancia total (km)": 2.73,
+        "Velocidad promedio (km/h)": 5.53,
+        "Calorías": 166
+    },
+    {
+        "Archivo": "2017-01-09T06_26_31-06_00_PT27M29.009S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/01/2017 12:26:31",
+        "Fin": "09/01/2017 12:55:55",
+        "Duración (min)": 29.4,
+        "Distancia total (km)": 2.47,
+        "Velocidad promedio (km/h)": 5.04,
+        "Calorías": 180
+    },
+    {
+        "Archivo": "2017-01-09T15_47_51-06_00_PT35M54.041S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/01/2017 21:47:51",
+        "Fin": "09/01/2017 22:26:47",
+        "Duración (min)": 38.93,
+        "Distancia total (km)": 3.01,
+        "Velocidad promedio (km/h)": 4.64,
+        "Calorías": 206
+    },
+    {
+        "Archivo": "2017-01-10T06_23_10-06_00_PT28M38.923S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/01/2017 12:23:10",
+        "Fin": "10/01/2017 12:53:41",
+        "Duración (min)": 30.52,
+        "Distancia total (km)": 3.04,
+        "Velocidad promedio (km/h)": 5.98,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-01-10T15_16_44-06_00_PT53M27.422S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/01/2017 21:16:44",
+        "Fin": "10/01/2017 22:24:36",
+        "Duración (min)": 67.87,
+        "Distancia total (km)": 3.63,
+        "Velocidad promedio (km/h)": 3.21,
+        "Calorías": 426
+    },
+    {
+        "Archivo": "2017-01-11T06_21_08-06_00_PT27M40.321S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/01/2017 12:21:08",
+        "Fin": "11/01/2017 12:49:32",
+        "Duración (min)": 28.4,
+        "Distancia total (km)": 7.45,
+        "Velocidad promedio (km/h)": 15.73,
+        "Calorías": 170
+    },
+    {
+        "Archivo": "2017-01-11T15_06_22-06_00_PT33M27.945S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/01/2017 21:06:22",
+        "Fin": "11/01/2017 21:44:01",
+        "Duración (min)": 37.65,
+        "Distancia total (km)": 3.98,
+        "Velocidad promedio (km/h)": 6.35,
+        "Calorías": 170
+    },
+    {
+        "Archivo": "2017-01-12T06_20_44-06_00_PT28M54S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/01/2017 12:20:44",
+        "Fin": "12/01/2017 12:49:38",
+        "Duración (min)": 28.9,
+        "Distancia total (km)": 8.98,
+        "Velocidad promedio (km/h)": 18.64,
+        "Calorías": 192
+    },
+    {
+        "Archivo": "2017-01-12T15_21_59-06_00_PT57M19S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/01/2017 21:21:59",
+        "Fin": "12/01/2017 22:19:18",
+        "Duración (min)": 57.32,
+        "Distancia total (km)": 10.71,
+        "Velocidad promedio (km/h)": 11.21,
+        "Calorías": 457
+    },
+    {
+        "Archivo": "2017-01-13T06_16_46-06_00_PT29M47S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/01/2017 12:16:46",
+        "Fin": "13/01/2017 12:46:33",
+        "Duración (min)": 29.78,
+        "Distancia total (km)": 9.28,
+        "Velocidad promedio (km/h)": 18.69,
+        "Calorías": 192
+    },
+    {
+        "Archivo": "2017-01-13T16_02_30-06_00_PT42M14S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/01/2017 22:02:30",
+        "Fin": "13/01/2017 22:44:44",
+        "Duración (min)": 42.23,
+        "Distancia total (km)": 11.5,
+        "Velocidad promedio (km/h)": 16.33,
+        "Calorías": 203
+    },
+    {
+        "Archivo": "2017-01-15T06_22_51-06_00_PT28M50S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/01/2017 12:22:51",
+        "Fin": "15/01/2017 12:51:41",
+        "Duración (min)": 28.83,
+        "Distancia total (km)": 9.33,
+        "Velocidad promedio (km/h)": 19.42,
+        "Calorías": 195
+    },
+    {
+        "Archivo": "2017-01-15T15_10_11-06_00_PT34M7S_Ciclismo de ruta.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/01/2017 21:10:11",
+        "Fin": "15/01/2017 21:44:18",
+        "Duración (min)": 34.12,
+        "Distancia total (km)": 9.86,
+        "Velocidad promedio (km/h)": 17.35,
+        "Calorías": 180
+    },
+    {
+        "Archivo": "2017-01-16T06_18_38.348-06_00_PT31M2.135S_Bicicleta.tcx",
+        "Tipo de deporte": "Biking",
+        "Inicio": "16/01/2017 12:18:38",
+        "Fin": "16/01/2017 12:50:06",
+        "Duración (min)": 31.47,
+        "Distancia total (km)": 9.56,
+        "Velocidad promedio (km/h)": 18.23,
+        "Calorías": 168
+    },
+    {
+        "Archivo": "2017-01-16T15_08_25-06_00_PT36M9S_Ciclismo de ruta.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/01/2017 21:08:25",
+        "Fin": "16/01/2017 21:44:34",
+        "Duración (min)": 36.15,
+        "Distancia total (km)": 10.64,
+        "Velocidad promedio (km/h)": 17.66,
+        "Calorías": 210
+    },
+    {
+        "Archivo": "2017-01-17T06_16_10-06_00_PT29M34S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "17/01/2017 12:16:10",
+        "Fin": "17/01/2017 12:45:44",
+        "Duración (min)": 29.57,
+        "Distancia total (km)": 9.18,
+        "Velocidad promedio (km/h)": 18.64,
+        "Calorías": 191
+    },
+    {
+        "Archivo": "2017-01-17T15_13_15-06_00_PT37M27S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "17/01/2017 21:13:15",
+        "Fin": "17/01/2017 21:50:42",
+        "Duración (min)": 37.45,
+        "Distancia total (km)": 10.66,
+        "Velocidad promedio (km/h)": 17.08,
+        "Calorías": 185
+    },
+    {
+        "Archivo": "2017-01-18T06_15_06-06_00_PT31M20S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/01/2017 12:15:06",
+        "Fin": "18/01/2017 12:46:26",
+        "Duración (min)": 31.33,
+        "Distancia total (km)": 9.41,
+        "Velocidad promedio (km/h)": 18.01,
+        "Calorías": 191
+    },
+    {
+        "Archivo": "2017-01-18T16_35_13-06_00_PT33M27S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/01/2017 22:35:13",
+        "Fin": "18/01/2017 23:08:40",
+        "Duración (min)": 33.45,
+        "Distancia total (km)": 10.11,
+        "Velocidad promedio (km/h)": 18.13,
+        "Calorías": 200
+    },
+    {
+        "Archivo": "2017-01-19T06_16_03-06_00_PT29M31S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "19/01/2017 12:16:03",
+        "Fin": "19/01/2017 12:45:34",
+        "Duración (min)": 29.52,
+        "Distancia total (km)": 8.97,
+        "Velocidad promedio (km/h)": 18.23,
+        "Calorías": 175
+    },
+    {
+        "Archivo": "2017-01-19T15_22_26-06_00_PT38M40S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "19/01/2017 21:22:26",
+        "Fin": "19/01/2017 22:01:06",
+        "Duración (min)": 38.67,
+        "Distancia total (km)": 10.38,
+        "Velocidad promedio (km/h)": 16.11,
+        "Calorías": 180
+    },
+    {
+        "Archivo": "2017-01-20T06_22_32-06_00_PT30M26S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/01/2017 12:22:32",
+        "Fin": "20/01/2017 12:52:58",
+        "Duración (min)": 30.43,
+        "Distancia total (km)": 8.98,
+        "Velocidad promedio (km/h)": 17.7,
+        "Calorías": 175
+    },
+    {
+        "Archivo": "2017-01-20T15_14_45-06_00_PT43M27S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/01/2017 21:14:45",
+        "Fin": "20/01/2017 21:58:12",
+        "Duración (min)": 43.45,
+        "Distancia total (km)": 9.97,
+        "Velocidad promedio (km/h)": 13.76,
+        "Calorías": 336
+    },
+    {
+        "Archivo": "2017-01-22T06_26_11-06_00_PT27M28S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/01/2017 12:26:11",
+        "Fin": "22/01/2017 12:53:39",
+        "Duración (min)": 27.47,
+        "Distancia total (km)": 9.04,
+        "Velocidad promedio (km/h)": 19.75,
+        "Calorías": 195
+    },
+    {
+        "Archivo": "2017-01-22T15_16_58-06_00_PT35M10S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/01/2017 21:16:58",
+        "Fin": "22/01/2017 21:52:08",
+        "Duración (min)": 35.17,
+        "Distancia total (km)": 9.58,
+        "Velocidad promedio (km/h)": 16.35,
+        "Calorías": 178
+    },
+    {
+        "Archivo": "2017-01-23T06_13_52-06_00_PT29M44S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/01/2017 12:13:52",
+        "Fin": "23/01/2017 12:43:36",
+        "Duración (min)": 29.73,
+        "Distancia total (km)": 9.0,
+        "Velocidad promedio (km/h)": 18.17,
+        "Calorías": 177
+    },
+    {
+        "Archivo": "2017-01-23T15_12_16-06_00_PT47M46S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/01/2017 21:12:16",
+        "Fin": "23/01/2017 22:00:02",
+        "Duración (min)": 47.77,
+        "Distancia total (km)": 10.18,
+        "Velocidad promedio (km/h)": 12.78,
+        "Calorías": 369
+    },
+    {
+        "Archivo": "2017-01-24T06_14_51-06_00_PT28M34.831S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/01/2017 12:14:51",
+        "Fin": "24/01/2017 12:47:25",
+        "Duración (min)": 32.57,
+        "Distancia total (km)": 2.39,
+        "Velocidad promedio (km/h)": 4.4,
+        "Calorías": 150
+    },
+    {
+        "Archivo": "2017-01-24T15_12_13-06_00_PT40M39.385S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/01/2017 21:12:13",
+        "Fin": "24/01/2017 21:56:24",
+        "Duración (min)": 44.18,
+        "Distancia total (km)": 2.99,
+        "Velocidad promedio (km/h)": 4.06,
+        "Calorías": 158
+    },
+    {
+        "Archivo": "2017-01-25T06_17_22-06_00_PT31M0.171S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/01/2017 12:17:22",
+        "Fin": "25/01/2017 12:51:53",
+        "Duración (min)": 34.52,
+        "Distancia total (km)": 3.29,
+        "Velocidad promedio (km/h)": 5.72,
+        "Calorías": 139
+    },
+    {
+        "Archivo": "2017-01-25T15_29_15-06_00_PT38M39.702S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/01/2017 21:29:15",
+        "Fin": "25/01/2017 22:21:19",
+        "Duración (min)": 52.07,
+        "Distancia total (km)": 5.58,
+        "Velocidad promedio (km/h)": 6.43,
+        "Calorías": 300
+    },
+    {
+        "Archivo": "2017-01-26T06_19_30-06_00_PT28M20.611S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/01/2017 12:19:30",
+        "Fin": "26/01/2017 12:49:27",
+        "Duración (min)": 29.95,
+        "Distancia total (km)": 4.65,
+        "Velocidad promedio (km/h)": 9.31,
+        "Calorías": 164
+    },
+    {
+        "Archivo": "2017-01-26T15_19_46-06_00_PT5M10.007S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/01/2017 21:19:46",
+        "Fin": "26/01/2017 21:28:31",
+        "Duración (min)": 8.75,
+        "Distancia total (km)": 0.54,
+        "Velocidad promedio (km/h)": 3.68,
+        "Calorías": 39
+    },
+    {
+        "Archivo": "2017-01-26T15_33_51-06_00_PT35M46.945S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/01/2017 21:33:51",
+        "Fin": "26/01/2017 22:12:36",
+        "Duración (min)": 38.75,
+        "Distancia total (km)": 3.18,
+        "Velocidad promedio (km/h)": 4.92,
+        "Calorías": 277
+    },
+    {
+        "Archivo": "2017-01-27T06_16_09-06_00_PT29M42.689S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/01/2017 12:16:09",
+        "Fin": "27/01/2017 12:48:28",
+        "Duración (min)": 32.32,
+        "Distancia total (km)": 3.71,
+        "Velocidad promedio (km/h)": 6.89,
+        "Calorías": 175
+    },
+    {
+        "Archivo": "2017-01-27T15_12_49-06_00_PT36M31.453S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/01/2017 21:12:49",
+        "Fin": "27/01/2017 21:53:21",
+        "Duración (min)": 40.53,
+        "Distancia total (km)": 3.83,
+        "Velocidad promedio (km/h)": 5.66,
+        "Calorías": 147
+    },
+    {
+        "Archivo": "2017-01-29T06_27_27-06_00_PT30M21.865S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/01/2017 12:27:27",
+        "Fin": "29/01/2017 13:02:48",
+        "Duración (min)": 35.35,
+        "Distancia total (km)": 3.18,
+        "Velocidad promedio (km/h)": 5.41,
+        "Calorías": 144
+    },
+    {
+        "Archivo": "2017-01-29T15_24_23-06_00_PT41M55.891S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/01/2017 21:24:23",
+        "Fin": "29/01/2017 22:10:35",
+        "Duración (min)": 46.2,
+        "Distancia total (km)": 5.19,
+        "Velocidad promedio (km/h)": 6.74,
+        "Calorías": 182
+    },
+    {
+        "Archivo": "2017-02-01T06_16_56-06_00_PT28M36.076S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/02/2017 12:16:56",
+        "Fin": "01/02/2017 12:45:58",
+        "Duración (min)": 29.03,
+        "Distancia total (km)": 7.08,
+        "Velocidad promedio (km/h)": 14.63,
+        "Calorías": 170
+    },
+    {
+        "Archivo": "2017-02-01T15_10_51-06_00_PT33M5.965S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/02/2017 21:10:51",
+        "Fin": "01/02/2017 21:46:50",
+        "Duración (min)": 35.98,
+        "Distancia total (km)": 2.25,
+        "Velocidad promedio (km/h)": 3.75,
+        "Calorías": 156
+    },
+    {
+        "Archivo": "2017-02-02T06_16_02-06_00_PT30M52.91S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/02/2017 12:16:02",
+        "Fin": "02/02/2017 12:49:41",
+        "Duración (min)": 33.65,
+        "Distancia total (km)": 2.35,
+        "Velocidad promedio (km/h)": 4.19,
+        "Calorías": 153
+    },
+    {
+        "Archivo": "2017-02-02T15_14_19-06_00_PT41M14.231S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/02/2017 21:14:19",
+        "Fin": "02/02/2017 21:59:25",
+        "Duración (min)": 45.1,
+        "Distancia total (km)": 3.22,
+        "Velocidad promedio (km/h)": 4.29,
+        "Calorías": 319
+    },
+    {
+        "Archivo": "2017-02-03T06_23_09-06_00_PT29M46.327S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/02/2017 12:23:09",
+        "Fin": "03/02/2017 12:54:24",
+        "Duración (min)": 31.25,
+        "Distancia total (km)": 4.46,
+        "Velocidad promedio (km/h)": 8.56,
+        "Calorías": 166
+    },
+    {
+        "Archivo": "2017-02-03T15_13_02-06_00_PT36M22.486S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/02/2017 21:13:02",
+        "Fin": "03/02/2017 21:52:02",
+        "Duración (min)": 39.0,
+        "Distancia total (km)": 4.1,
+        "Velocidad promedio (km/h)": 6.31,
+        "Calorías": 153
+    },
+    {
+        "Archivo": "2017-02-05T06_15_43-06_00_PT34M14.143S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/02/2017 12:15:43",
+        "Fin": "05/02/2017 12:56:10",
+        "Duración (min)": 40.45,
+        "Distancia total (km)": 4.32,
+        "Velocidad promedio (km/h)": 6.41,
+        "Calorías": 138
+    },
+    {
+        "Archivo": "2017-02-05T15_15_32-06_00_PT42M7.582S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/02/2017 21:15:32",
+        "Fin": "05/02/2017 22:02:51",
+        "Duración (min)": 47.32,
+        "Distancia total (km)": 7.54,
+        "Velocidad promedio (km/h)": 9.56,
+        "Calorías": 207
+    },
+    {
+        "Archivo": "2017-02-06T06_21_20-06_00_PT29M12.502S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/02/2017 12:21:20",
+        "Fin": "06/02/2017 12:54:59",
+        "Duración (min)": 33.65,
+        "Distancia total (km)": 4.38,
+        "Velocidad promedio (km/h)": 7.8,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-02-08T16_50_33-06_00_PT31M20.881S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/02/2017 22:50:33",
+        "Fin": "08/02/2017 23:24:04",
+        "Duración (min)": 33.52,
+        "Distancia total (km)": 2.93,
+        "Velocidad promedio (km/h)": 5.24,
+        "Calorías": 158
+    },
+    {
+        "Archivo": "2017-03-16T07_32_06-06_00_PT45M38.31S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/03/2017 13:32:06",
+        "Fin": "16/03/2017 14:22:16",
+        "Duración (min)": 50.17,
+        "Distancia total (km)": 5.93,
+        "Velocidad promedio (km/h)": 7.09,
+        "Calorías": 353
+    },
+    {
+        "Archivo": "2017-03-18T07_49_04-06_00_PT29M45.931S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/03/2017 13:49:04",
+        "Fin": "18/03/2017 14:25:12",
+        "Duración (min)": 36.13,
+        "Distancia total (km)": 4.12,
+        "Velocidad promedio (km/h)": 6.85,
+        "Calorías": 149
+    },
+    {
+        "Archivo": "2017-03-18T17_00_48-06_00_PT29M57.31S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/03/2017 23:00:48",
+        "Fin": "18/03/2017 23:33:27",
+        "Duración (min)": 32.65,
+        "Distancia total (km)": 4.27,
+        "Velocidad promedio (km/h)": 7.85,
+        "Calorías": 165
+    },
+    {
+        "Archivo": "2017-03-20T07_45_44-06_00_PT29M12.923S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/03/2017 13:45:44",
+        "Fin": "20/03/2017 14:16:22",
+        "Duración (min)": 30.63,
+        "Distancia total (km)": 5.73,
+        "Velocidad promedio (km/h)": 11.23,
+        "Calorías": 185
+    },
+    {
+        "Archivo": "2017-03-20T16_47_34-06_00_PT27M59.158S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/03/2017 22:47:34",
+        "Fin": "20/03/2017 23:17:42",
+        "Duración (min)": 30.13,
+        "Distancia total (km)": 4.34,
+        "Velocidad promedio (km/h)": 8.65,
+        "Calorías": 171
+    },
+    {
+        "Archivo": "2017-03-21T07_40_22-06_00_PT30M56.412S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/03/2017 13:40:22",
+        "Fin": "21/03/2017 14:14:51",
+        "Duración (min)": 34.48,
+        "Distancia total (km)": 2.99,
+        "Velocidad promedio (km/h)": 5.2,
+        "Calorías": 159
+    },
+    {
+        "Archivo": "2017-03-21T16_38_28-06_00_PT32M10.199S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/03/2017 22:38:28",
+        "Fin": "21/03/2017 23:13:58",
+        "Duración (min)": 35.5,
+        "Distancia total (km)": 3.95,
+        "Velocidad promedio (km/h)": 6.68,
+        "Calorías": 156
+    },
+    {
+        "Archivo": "2017-03-22T07_38_13-06_00_PT30M24.891S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/03/2017 13:38:13",
+        "Fin": "22/03/2017 14:13:10",
+        "Duración (min)": 34.95,
+        "Distancia total (km)": 2.06,
+        "Velocidad promedio (km/h)": 3.53,
+        "Calorías": 146
+    },
+    {
+        "Archivo": "2017-03-22T16_34_48-06_00_PT39M3.024S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/03/2017 22:34:48",
+        "Fin": "22/03/2017 23:22:23",
+        "Duración (min)": 47.58,
+        "Distancia total (km)": 6.46,
+        "Velocidad promedio (km/h)": 8.15,
+        "Calorías": 303
+    },
+    {
+        "Archivo": "2017-03-23T07_41_30-06_00_PT31M29.277S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/03/2017 13:41:30",
+        "Fin": "23/03/2017 14:16:09",
+        "Duración (min)": 34.65,
+        "Distancia total (km)": 2.07,
+        "Velocidad promedio (km/h)": 3.59,
+        "Calorías": 156
+    },
+    {
+        "Archivo": "2017-03-23T16_36_04-06_00_PT34M50.413S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/03/2017 22:36:04",
+        "Fin": "23/03/2017 23:15:05",
+        "Duración (min)": 39.02,
+        "Distancia total (km)": 3.03,
+        "Velocidad promedio (km/h)": 4.66,
+        "Calorías": 162
+    },
+    {
+        "Archivo": "2017-03-24T07_42_40-06_00_PT29M40.081S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/03/2017 13:42:40",
+        "Fin": "24/03/2017 14:16:13",
+        "Duración (min)": 33.55,
+        "Distancia total (km)": 2.41,
+        "Velocidad promedio (km/h)": 4.31,
+        "Calorías": 167
+    },
+    {
+        "Archivo": "2017-03-24T16_41_36-06_00_PT26M42.95S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/03/2017 22:41:36",
+        "Fin": "24/03/2017 23:09:49",
+        "Duración (min)": 28.22,
+        "Distancia total (km)": 7.4,
+        "Velocidad promedio (km/h)": 15.74,
+        "Calorías": 209
+    },
+    {
+        "Archivo": "2017-03-25T07_27_37-06_00_PT37M56.854S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/03/2017 13:27:37",
+        "Fin": "25/03/2017 14:17:53",
+        "Duración (min)": 50.27,
+        "Distancia total (km)": 3.86,
+        "Velocidad promedio (km/h)": 4.61,
+        "Calorías": 293
+    },
+    {
+        "Archivo": "2017-03-25T16_41_38-06_00_PT40M27.53S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/03/2017 22:41:38",
+        "Fin": "25/03/2017 23:31:44",
+        "Duración (min)": 50.1,
+        "Distancia total (km)": 2.94,
+        "Velocidad promedio (km/h)": 3.52,
+        "Calorías": 314
+    },
+    {
+        "Archivo": "2017-03-27T07_45_20-06_00_PT31M45.029S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/03/2017 13:45:20",
+        "Fin": "27/03/2017 14:22:17",
+        "Duración (min)": 36.95,
+        "Distancia total (km)": 2.61,
+        "Velocidad promedio (km/h)": 4.23,
+        "Calorías": 144
+    },
+    {
+        "Archivo": "2017-03-27T16_35_23-06_00_PT45M35.194S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/03/2017 22:35:23",
+        "Fin": "27/03/2017 23:25:21",
+        "Duración (min)": 49.97,
+        "Distancia total (km)": 2.48,
+        "Velocidad promedio (km/h)": 2.98,
+        "Calorías": 353
+    },
+    {
+        "Archivo": "2017-03-28T07_39_07-06_00_PT31M47.728S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/03/2017 13:39:07",
+        "Fin": "28/03/2017 14:14:25",
+        "Duración (min)": 35.3,
+        "Distancia total (km)": 3.07,
+        "Velocidad promedio (km/h)": 5.21,
+        "Calorías": 146
+    },
+    {
+        "Archivo": "2017-04-02T07_12_47-05_00_PT1H13M30.091S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/04/2017 12:12:47",
+        "Fin": "02/04/2017 13:36:04",
+        "Duración (min)": 83.28,
+        "Distancia total (km)": 4.17,
+        "Velocidad promedio (km/h)": 3.0,
+        "Calorías": 527
+    },
+    {
+        "Archivo": "2017-04-16T08_30_45-05_00_PT1H13M46.686S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/04/2017 13:30:45",
+        "Fin": "16/04/2017 14:49:18",
+        "Duración (min)": 78.55,
+        "Distancia total (km)": 8.91,
+        "Velocidad promedio (km/h)": 6.81,
+        "Calorías": 506
+    },
+    {
+        "Archivo": "2017-04-20T07_51_51-05_00_PT28M20.616S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/04/2017 12:51:51",
+        "Fin": "20/04/2017 13:23:40",
+        "Duración (min)": 31.82,
+        "Distancia total (km)": 3.74,
+        "Velocidad promedio (km/h)": 7.05,
+        "Calorías": 153
+    },
+    {
+        "Archivo": "2017-04-20T16_44_03-05_00_PT29M50.031S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/04/2017 21:44:03",
+        "Fin": "20/04/2017 22:17:15",
+        "Duración (min)": 33.2,
+        "Distancia total (km)": 2.86,
+        "Velocidad promedio (km/h)": 5.17,
+        "Calorías": 157
+    },
+    {
+        "Archivo": "2017-04-21T07_53_17-05_00_PT27M33.741S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/04/2017 12:53:17",
+        "Fin": "21/04/2017 13:21:38",
+        "Duración (min)": 28.35,
+        "Distancia total (km)": 8.08,
+        "Velocidad promedio (km/h)": 17.1,
+        "Calorías": 175
+    },
+    {
+        "Archivo": "2017-04-21T16_39_55-05_00_PT29M34.966S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/04/2017 21:39:55",
+        "Fin": "21/04/2017 22:09:42",
+        "Duración (min)": 29.78,
+        "Distancia total (km)": 8.16,
+        "Velocidad promedio (km/h)": 16.44,
+        "Calorías": 171
+    },
+    {
+        "Archivo": "2017-04-26T07_48_11-05_00_PT30M40.759S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/04/2017 12:48:11",
+        "Fin": "26/04/2017 13:26:51",
+        "Duración (min)": 38.67,
+        "Distancia total (km)": 1.4,
+        "Velocidad promedio (km/h)": 2.17,
+        "Calorías": 119
+    },
+    {
+        "Archivo": "2017-04-26T16_37_17-05_00_PT33M34.861S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/04/2017 21:37:17",
+        "Fin": "26/04/2017 22:13:14",
+        "Duración (min)": 35.95,
+        "Distancia total (km)": 3.5,
+        "Velocidad promedio (km/h)": 5.84,
+        "Calorías": 139
+    },
+    {
+        "Archivo": "2017-04-27T07_57_12-05_00_PT30M29.984S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/04/2017 12:57:12",
+        "Fin": "27/04/2017 13:33:08",
+        "Duración (min)": 35.93,
+        "Distancia total (km)": 3.25,
+        "Velocidad promedio (km/h)": 5.44,
+        "Calorías": 126
+    },
+    {
+        "Archivo": "2017-04-28T07_49_33-05_00_PT32M2.821S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/04/2017 12:49:33",
+        "Fin": "28/04/2017 13:25:15",
+        "Duración (min)": 35.7,
+        "Distancia total (km)": 5.13,
+        "Velocidad promedio (km/h)": 8.62,
+        "Calorías": 150
+    },
+    {
+        "Archivo": "2017-04-30T07_50_12-05_00_PT54M8.477S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "30/04/2017 12:50:12",
+        "Fin": "30/04/2017 13:47:30",
+        "Duración (min)": 57.3,
+        "Distancia total (km)": 6.36,
+        "Velocidad promedio (km/h)": 6.65,
+        "Calorías": 394
+    },
+    {
+        "Archivo": "2017-05-01T08_26_46-05_00_PT25M1.409S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/05/2017 13:26:46",
+        "Fin": "01/05/2017 13:53:00",
+        "Duración (min)": 26.23,
+        "Distancia total (km)": 3.77,
+        "Velocidad promedio (km/h)": 8.62,
+        "Calorías": 190
+    },
+    {
+        "Archivo": "2017-05-01T16_39_52-05_00_PT28M24.704S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/05/2017 21:39:52",
+        "Fin": "01/05/2017 22:09:22",
+        "Duración (min)": 29.5,
+        "Distancia total (km)": 6.52,
+        "Velocidad promedio (km/h)": 13.26,
+        "Calorías": 179
+    },
+    {
+        "Archivo": "2017-05-02T08_02_34-05_00_PT28M18.186S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/05/2017 13:02:34",
+        "Fin": "02/05/2017 13:34:58",
+        "Duración (min)": 32.4,
+        "Distancia total (km)": 2.7,
+        "Velocidad promedio (km/h)": 4.99,
+        "Calorías": 145
+    },
+    {
+        "Archivo": "2017-05-02T16_48_02-05_00_PT34M3.646S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/05/2017 21:48:02",
+        "Fin": "02/05/2017 22:23:37",
+        "Duración (min)": 35.58,
+        "Distancia total (km)": 4.28,
+        "Velocidad promedio (km/h)": 7.22,
+        "Calorías": 134
+    },
+    {
+        "Archivo": "2017-05-03T07_57_35-05_00_PT28M23.491S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/05/2017 12:57:35",
+        "Fin": "03/05/2017 13:27:28",
+        "Duración (min)": 29.88,
+        "Distancia total (km)": 4.8,
+        "Velocidad promedio (km/h)": 9.63,
+        "Calorías": 170
+    },
+    {
+        "Archivo": "2017-05-03T16_37_51-05_00_PT28M50.902S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/05/2017 21:37:51",
+        "Fin": "03/05/2017 22:08:40",
+        "Duración (min)": 30.82,
+        "Distancia total (km)": 5.03,
+        "Velocidad promedio (km/h)": 9.78,
+        "Calorías": 169
+    },
+    {
+        "Archivo": "2017-05-04T07_57_05-05_00_PT30M40.611S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/05/2017 12:57:05",
+        "Fin": "04/05/2017 13:30:47",
+        "Duración (min)": 33.7,
+        "Distancia total (km)": 3.42,
+        "Velocidad promedio (km/h)": 6.09,
+        "Calorías": 131
+    },
+    {
+        "Archivo": "2017-05-04T16_41_49-05_00_PT30M14.303S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/05/2017 21:41:49",
+        "Fin": "04/05/2017 22:13:50",
+        "Duración (min)": 32.02,
+        "Distancia total (km)": 4.23,
+        "Velocidad promedio (km/h)": 7.93,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-06-15T06_19_32-05_00_PT28M57.938S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/06/2017 11:19:32",
+        "Fin": "15/06/2017 11:50:44",
+        "Duración (min)": 31.2,
+        "Distancia total (km)": 3.87,
+        "Velocidad promedio (km/h)": 7.44,
+        "Calorías": 153
+    },
+    {
+        "Archivo": "2017-06-15T15_15_22-05_00_PT33M11.011S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/06/2017 20:15:22",
+        "Fin": "15/06/2017 20:51:20",
+        "Duración (min)": 35.97,
+        "Distancia total (km)": 3.98,
+        "Velocidad promedio (km/h)": 6.64,
+        "Calorías": 138
+    },
+    {
+        "Archivo": "2017-06-16T06_21_56-05_00_PT28M0.05S_Ciclismo de r.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/06/2017 11:21:56",
+        "Fin": "16/06/2017 11:51:33",
+        "Duración (min)": 29.62,
+        "Distancia total (km)": 4.46,
+        "Velocidad promedio (km/h)": 9.03,
+        "Calorías": 164
+    },
+    {
+        "Archivo": "2017-06-16T15_05_24-05_00_PT30M14.269S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/06/2017 20:05:24",
+        "Fin": "16/06/2017 20:39:56",
+        "Duración (min)": 34.53,
+        "Distancia total (km)": 1.81,
+        "Velocidad promedio (km/h)": 3.14,
+        "Calorías": 135
+    },
+    {
+        "Archivo": "2017-06-21T06_18_52-05_00_PT26M3.885S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/06/2017 11:18:52",
+        "Fin": "21/06/2017 11:46:00",
+        "Duración (min)": 27.13,
+        "Distancia total (km)": 6.18,
+        "Velocidad promedio (km/h)": 13.66,
+        "Calorías": 189
+    },
+    {
+        "Archivo": "2017-06-21T15_12_44-05_00_PT35M18.434S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/06/2017 20:12:44",
+        "Fin": "21/06/2017 20:51:05",
+        "Duración (min)": 38.35,
+        "Distancia total (km)": 3.12,
+        "Velocidad promedio (km/h)": 4.89,
+        "Calorías": 161
+    },
+    {
+        "Archivo": "2017-06-22T06_18_06-05_00_PT26M35.079S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/06/2017 11:18:06",
+        "Fin": "22/06/2017 11:45:50",
+        "Duración (min)": 27.73,
+        "Distancia total (km)": 3.91,
+        "Velocidad promedio (km/h)": 8.45,
+        "Calorías": 185
+    },
+    {
+        "Archivo": "2017-06-22T15_10_44-05_00_PT34M54.67S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/06/2017 20:10:44",
+        "Fin": "22/06/2017 20:46:57",
+        "Duración (min)": 36.22,
+        "Distancia total (km)": 4.29,
+        "Velocidad promedio (km/h)": 7.11,
+        "Calorías": 173
+    },
+    {
+        "Archivo": "2017-06-23T06_16_44-05_00_PT25M34.118S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/06/2017 11:16:44",
+        "Fin": "23/06/2017 11:44:00",
+        "Duración (min)": 27.27,
+        "Distancia total (km)": 2.83,
+        "Velocidad promedio (km/h)": 6.23,
+        "Calorías": 186
+    },
+    {
+        "Archivo": "2017-06-23T15_06_30-05_00_PT30M5.879S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/06/2017 20:06:30",
+        "Fin": "23/06/2017 20:39:55",
+        "Duración (min)": 33.42,
+        "Distancia total (km)": 2.85,
+        "Velocidad promedio (km/h)": 5.11,
+        "Calorías": 160
+    },
+    {
+        "Archivo": "2017-06-24T06_24_07-05_00_PT28M20.15S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/06/2017 11:24:07",
+        "Fin": "24/06/2017 11:55:51",
+        "Duración (min)": 31.73,
+        "Distancia total (km)": 3.72,
+        "Velocidad promedio (km/h)": 7.04,
+        "Calorías": 151
+    },
+    {
+        "Archivo": "2017-06-24T15_02_28-05_00_PT34M56.238S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/06/2017 20:02:28",
+        "Fin": "24/06/2017 20:41:59",
+        "Duración (min)": 39.52,
+        "Distancia total (km)": 2.33,
+        "Velocidad promedio (km/h)": 3.54,
+        "Calorías": 262
+    },
+    {
+        "Archivo": "2017-06-25T07_34_24-05_00_PT1H54M27.988S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/06/2017 12:34:24",
+        "Fin": "25/06/2017 15:01:36",
+        "Duración (min)": 147.2,
+        "Distancia total (km)": 10.41,
+        "Velocidad promedio (km/h)": 4.24,
+        "Calorías": 863
+    },
+    {
+        "Archivo": "2017-06-26T06_24_17-05_00_PT30M20.242S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/06/2017 11:24:17",
+        "Fin": "26/06/2017 11:57:22",
+        "Duración (min)": 33.08,
+        "Distancia total (km)": 3.0,
+        "Velocidad promedio (km/h)": 5.44,
+        "Calorías": 139
+    },
+    {
+        "Archivo": "2017-06-26T15_25_07-05_00_PT32M30.613S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/06/2017 20:25:07",
+        "Fin": "26/06/2017 21:00:06",
+        "Duración (min)": 34.98,
+        "Distancia total (km)": 4.67,
+        "Velocidad promedio (km/h)": 8.02,
+        "Calorías": 149
+    },
+    {
+        "Archivo": "2017-06-27T06_27_15-05_00_PT20M15.286S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/06/2017 11:27:15",
+        "Fin": "27/06/2017 11:49:25",
+        "Duración (min)": 22.17,
+        "Distancia total (km)": 2.4,
+        "Velocidad promedio (km/h)": 6.5,
+        "Calorías": 85
+    },
+    {
+        "Archivo": "2017-06-27T16_41_43-05_00_PT24M10.701S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/06/2017 21:41:43",
+        "Fin": "27/06/2017 22:06:48",
+        "Duración (min)": 25.08,
+        "Distancia total (km)": 4.14,
+        "Velocidad promedio (km/h)": 9.89,
+        "Calorías": 93
+    },
+    {
+        "Archivo": "2017-06-28T06_28_24-05_00_PT31M33.45S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/06/2017 11:28:24",
+        "Fin": "28/06/2017 12:01:33",
+        "Duración (min)": 33.15,
+        "Distancia total (km)": 5.2,
+        "Velocidad promedio (km/h)": 9.41,
+        "Calorías": 136
+    },
+    {
+        "Archivo": "2017-06-28T15_19_18-05_00_PT32M58.867S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/06/2017 20:19:18",
+        "Fin": "28/06/2017 20:55:02",
+        "Duración (min)": 35.73,
+        "Distancia total (km)": 3.33,
+        "Velocidad promedio (km/h)": 5.6,
+        "Calorías": 146
+    },
+    {
+        "Archivo": "2017-06-29T06_26_08-05_00_PT28M39.687S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/06/2017 11:26:08",
+        "Fin": "29/06/2017 11:57:42",
+        "Duración (min)": 31.57,
+        "Distancia total (km)": 2.68,
+        "Velocidad promedio (km/h)": 5.1,
+        "Calorías": 148
+    },
+    {
+        "Archivo": "2017-06-29T15_20_36-05_00_PT33M10.787S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/06/2017 20:20:36",
+        "Fin": "29/06/2017 21:00:58",
+        "Duración (min)": 40.37,
+        "Distancia total (km)": 2.36,
+        "Velocidad promedio (km/h)": 3.51,
+        "Calorías": 140
+    },
+    {
+        "Archivo": "2017-06-30T06_14_56-05_00_PT27M22.7S_Ciclismo de r.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "30/06/2017 11:14:56",
+        "Fin": "30/06/2017 11:44:23",
+        "Duración (min)": 29.45,
+        "Distancia total (km)": 6.72,
+        "Velocidad promedio (km/h)": 13.69,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-06-30T15_19_32-05_00_PT36M6.939S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "30/06/2017 20:19:32",
+        "Fin": "30/06/2017 21:00:53",
+        "Duración (min)": 41.35,
+        "Distancia total (km)": 2.8,
+        "Velocidad promedio (km/h)": 4.06,
+        "Calorías": 272
+    },
+    {
+        "Archivo": "2017-07-01T06_29_31-05_00_PT27M2.343S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/07/2017 11:29:31",
+        "Fin": "01/07/2017 11:58:22",
+        "Duración (min)": 28.85,
+        "Distancia total (km)": 2.94,
+        "Velocidad promedio (km/h)": 6.11,
+        "Calorías": 164
+    },
+    {
+        "Archivo": "2017-07-01T15_09_23-05_00_PT32M55.292S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/07/2017 20:09:23",
+        "Fin": "01/07/2017 20:45:21",
+        "Duración (min)": 35.97,
+        "Distancia total (km)": 2.56,
+        "Velocidad promedio (km/h)": 4.28,
+        "Calorías": 140
+    },
+    {
+        "Archivo": "2017-07-03T06_27_31-05_00_PT28M10.339S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/07/2017 11:27:31",
+        "Fin": "03/07/2017 11:57:18",
+        "Duración (min)": 29.78,
+        "Distancia total (km)": 2.78,
+        "Velocidad promedio (km/h)": 5.61,
+        "Calorías": 157
+    },
+    {
+        "Archivo": "2017-07-03T15_13_23-05_00_PT32M50.907S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/07/2017 20:13:23",
+        "Fin": "03/07/2017 20:47:48",
+        "Duración (min)": 34.42,
+        "Distancia total (km)": 4.27,
+        "Velocidad promedio (km/h)": 7.45,
+        "Calorías": 145
+    },
+    {
+        "Archivo": "2017-07-05T06_19_44-05_00_PT26M58.927S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/07/2017 11:19:44",
+        "Fin": "05/07/2017 11:48:59",
+        "Duración (min)": 29.25,
+        "Distancia total (km)": 2.41,
+        "Velocidad promedio (km/h)": 4.95,
+        "Calorías": 170
+    },
+    {
+        "Archivo": "2017-07-05T15_12_45-05_00_PT30M19.308S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/07/2017 20:12:45",
+        "Fin": "05/07/2017 20:44:31",
+        "Duración (min)": 31.77,
+        "Distancia total (km)": 7.18,
+        "Velocidad promedio (km/h)": 13.56,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-07-06T08_13_28-05_00_PT34M18.606S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/07/2017 13:13:28",
+        "Fin": "06/07/2017 13:52:54",
+        "Duración (min)": 39.43,
+        "Distancia total (km)": 1.89,
+        "Velocidad promedio (km/h)": 2.87,
+        "Calorías": 259
+    },
+    {
+        "Archivo": "2017-07-06T16_40_50-05_00_PT31M32.186S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/07/2017 21:40:50",
+        "Fin": "06/07/2017 22:14:04",
+        "Duración (min)": 33.23,
+        "Distancia total (km)": 5.51,
+        "Velocidad promedio (km/h)": 9.94,
+        "Calorías": 155
+    },
+    {
+        "Archivo": "2017-07-07T06_26_35-05_00_PT27M25.378S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/07/2017 11:26:35",
+        "Fin": "07/07/2017 11:55:41",
+        "Duración (min)": 29.1,
+        "Distancia total (km)": 2.89,
+        "Velocidad promedio (km/h)": 5.96,
+        "Calorías": 166
+    },
+    {
+        "Archivo": "2017-07-07T15_18_55-05_00_PT34M40.007S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/07/2017 20:18:55",
+        "Fin": "07/07/2017 20:57:32",
+        "Duración (min)": 38.62,
+        "Distancia total (km)": 1.97,
+        "Velocidad promedio (km/h)": 3.06,
+        "Calorías": 261
+    },
+    {
+        "Archivo": "2017-07-08T06_36_42-05_00_PT31M12.268S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/07/2017 11:36:42",
+        "Fin": "08/07/2017 12:08:32",
+        "Duración (min)": 31.83,
+        "Distancia total (km)": 7.03,
+        "Velocidad promedio (km/h)": 13.25,
+        "Calorías": 140
+    },
+    {
+        "Archivo": "2017-07-08T15_15_50-05_00_PT31M37.064S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/07/2017 20:15:50",
+        "Fin": "08/07/2017 20:56:47",
+        "Duración (min)": 40.95,
+        "Distancia total (km)": 2.9,
+        "Velocidad promedio (km/h)": 4.25,
+        "Calorías": 125
+    },
+    {
+        "Archivo": "2017-07-10T06_31_05-05_00_PT26M42.949S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/07/2017 11:31:05",
+        "Fin": "10/07/2017 11:59:57",
+        "Duración (min)": 28.87,
+        "Distancia total (km)": 4.99,
+        "Velocidad promedio (km/h)": 10.37,
+        "Calorías": 169
+    },
+    {
+        "Archivo": "2017-07-10T15_20_09-05_00_PT31M30.269S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/07/2017 20:20:09",
+        "Fin": "10/07/2017 20:53:57",
+        "Duración (min)": 33.8,
+        "Distancia total (km)": 2.32,
+        "Velocidad promedio (km/h)": 4.12,
+        "Calorías": 152
+    },
+    {
+        "Archivo": "2017-07-11T06_23_21-05_00_PT30M36.002S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/07/2017 11:23:21",
+        "Fin": "11/07/2017 11:55:40",
+        "Duración (min)": 32.32,
+        "Distancia total (km)": 5.92,
+        "Velocidad promedio (km/h)": 10.99,
+        "Calorías": 143
+    },
+    {
+        "Archivo": "2017-07-11T15_20_40-05_00_PT30M23.753S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/07/2017 20:20:40",
+        "Fin": "11/07/2017 20:53:11",
+        "Duración (min)": 32.52,
+        "Distancia total (km)": 4.93,
+        "Velocidad promedio (km/h)": 9.1,
+        "Calorías": 160
+    },
+    {
+        "Archivo": "2017-07-12T06_19_17-05_00_PT28M40.921S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/07/2017 11:19:17",
+        "Fin": "12/07/2017 11:51:27",
+        "Duración (min)": 32.17,
+        "Distancia total (km)": 4.49,
+        "Velocidad promedio (km/h)": 8.37,
+        "Calorías": 146
+    },
+    {
+        "Archivo": "2017-07-12T15_16_08-05_00_PT36M6.847S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/07/2017 20:16:08",
+        "Fin": "12/07/2017 21:06:16",
+        "Duración (min)": 50.13,
+        "Distancia total (km)": 2.59,
+        "Velocidad promedio (km/h)": 3.1,
+        "Calorías": 273
+    },
+    {
+        "Archivo": "2017-07-13T08_29_13-05_00_PT27M39.832S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/07/2017 13:29:13",
+        "Fin": "13/07/2017 13:58:53",
+        "Duración (min)": 29.67,
+        "Distancia total (km)": 3.62,
+        "Velocidad promedio (km/h)": 7.33,
+        "Calorías": 162
+    },
+    {
+        "Archivo": "2017-07-13T16_48_33-05_00_PT29M51.346S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/07/2017 21:48:33",
+        "Fin": "13/07/2017 22:20:37",
+        "Duración (min)": 32.07,
+        "Distancia total (km)": 2.36,
+        "Velocidad promedio (km/h)": 4.42,
+        "Calorías": 168
+    },
+    {
+        "Archivo": "2017-07-14T06_20_51-05_00_PT32M7.535S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "14/07/2017 11:20:51",
+        "Fin": "14/07/2017 11:58:37",
+        "Duración (min)": 37.77,
+        "Distancia total (km)": 4.62,
+        "Velocidad promedio (km/h)": 7.34,
+        "Calorías": 155
+    },
+    {
+        "Archivo": "2017-07-14T15_23_15-05_00_PT31M47.31S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "14/07/2017 20:23:15",
+        "Fin": "14/07/2017 20:58:52",
+        "Duración (min)": 35.62,
+        "Distancia total (km)": 3.1,
+        "Velocidad promedio (km/h)": 5.22,
+        "Calorías": 144
+    },
+    {
+        "Archivo": "2017-07-15T06_35_33-05_00_PT26M52.548S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/07/2017 11:35:33",
+        "Fin": "15/07/2017 12:04:37",
+        "Duración (min)": 29.07,
+        "Distancia total (km)": 6.6,
+        "Velocidad promedio (km/h)": 13.62,
+        "Calorías": 184
+    },
+    {
+        "Archivo": "2017-07-15T15_21_13-05_00_PT35M22.8S_Ciclismo de r.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/07/2017 20:21:13",
+        "Fin": "15/07/2017 21:08:33",
+        "Duración (min)": 47.33,
+        "Distancia total (km)": 4.3,
+        "Velocidad promedio (km/h)": 5.45,
+        "Calorías": 141
+    },
+    {
+        "Archivo": "2017-07-18T06_35_04-05_00_PT23M30.587S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/07/2017 11:35:04",
+        "Fin": "18/07/2017 11:59:20",
+        "Duración (min)": 24.27,
+        "Distancia total (km)": 5.17,
+        "Velocidad promedio (km/h)": 12.8,
+        "Calorías": 216
+    },
+    {
+        "Archivo": "2017-07-18T15_24_27-05_00_PT31M16.135S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/07/2017 20:24:27",
+        "Fin": "18/07/2017 21:06:00",
+        "Duración (min)": 41.55,
+        "Distancia total (km)": 3.18,
+        "Velocidad promedio (km/h)": 4.59,
+        "Calorías": 128
+    },
+    {
+        "Archivo": "2017-07-19T06_14_34-05_00_PT25M21.761S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "19/07/2017 11:14:34",
+        "Fin": "19/07/2017 11:41:26",
+        "Duración (min)": 26.87,
+        "Distancia total (km)": 4.95,
+        "Velocidad promedio (km/h)": 11.06,
+        "Calorías": 193
+    },
+    {
+        "Archivo": "2017-07-19T15_20_48-05_00_PT30M21.711S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "19/07/2017 20:20:48",
+        "Fin": "19/07/2017 20:54:00",
+        "Duración (min)": 33.2,
+        "Distancia total (km)": 4.37,
+        "Velocidad promedio (km/h)": 7.9,
+        "Calorías": 158
+    },
+    {
+        "Archivo": "2017-07-20T08_25_10-05_00_PT27M35.33S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/07/2017 13:25:10",
+        "Fin": "20/07/2017 14:31:17",
+        "Duración (min)": 66.13,
+        "Distancia total (km)": 2.42,
+        "Velocidad promedio (km/h)": 2.2,
+        "Calorías": 208
+    },
+    {
+        "Archivo": "2017-07-20T17_20_20-05_00_PT27M31.114S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/07/2017 22:20:20",
+        "Fin": "20/07/2017 22:49:30",
+        "Duración (min)": 29.17,
+        "Distancia total (km)": 4.67,
+        "Velocidad promedio (km/h)": 9.6,
+        "Calorías": 205
+    },
+    {
+        "Archivo": "2017-07-21T09_10_06-05_00_PT24M41.287S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/07/2017 14:10:06",
+        "Fin": "21/07/2017 14:37:46",
+        "Duración (min)": 27.67,
+        "Distancia total (km)": 3.02,
+        "Velocidad promedio (km/h)": 6.54,
+        "Calorías": 121
+    },
+    {
+        "Archivo": "2017-07-21T18_13_47-05_00_PT32M56.344S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/07/2017 23:13:47",
+        "Fin": "21/07/2017 23:49:42",
+        "Duración (min)": 35.92,
+        "Distancia total (km)": 3.35,
+        "Velocidad promedio (km/h)": 5.59,
+        "Calorías": 136
+    },
+    {
+        "Archivo": "2017-07-22T06_33_59-05_00_PT28M0.799S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/07/2017 11:33:59",
+        "Fin": "22/07/2017 12:05:22",
+        "Duración (min)": 31.38,
+        "Distancia total (km)": 4.04,
+        "Velocidad promedio (km/h)": 7.72,
+        "Calorías": 149
+    },
+    {
+        "Archivo": "2017-07-22T15_11_25-05_00_PT46M41.488S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/07/2017 20:11:25",
+        "Fin": "22/07/2017 21:04:28",
+        "Duración (min)": 53.05,
+        "Distancia total (km)": 3.69,
+        "Velocidad promedio (km/h)": 4.17,
+        "Calorías": 221
+    },
+    {
+        "Archivo": "2017-07-24T06_34_44-05_00_PT25M52.983S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/07/2017 11:34:44",
+        "Fin": "24/07/2017 12:01:42",
+        "Duración (min)": 26.97,
+        "Distancia total (km)": 2.83,
+        "Velocidad promedio (km/h)": 6.3,
+        "Calorías": 188
+    },
+    {
+        "Archivo": "2017-07-24T15_22_58-05_00_PT30M35.112S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/07/2017 20:22:58",
+        "Fin": "24/07/2017 20:56:40",
+        "Duración (min)": 33.7,
+        "Distancia total (km)": 6.45,
+        "Velocidad promedio (km/h)": 11.48,
+        "Calorías": 150
+    },
+    {
+        "Archivo": "2017-07-25T06_25_40-05_00_PT28M42.151S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/07/2017 11:25:40",
+        "Fin": "25/07/2017 11:55:49",
+        "Duración (min)": 30.15,
+        "Distancia total (km)": 3.36,
+        "Velocidad promedio (km/h)": 6.68,
+        "Calorías": 155
+    },
+    {
+        "Archivo": "2017-07-25T15_21_03-05_00_PT31M5.955S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/07/2017 20:21:03",
+        "Fin": "25/07/2017 20:53:16",
+        "Duración (min)": 32.22,
+        "Distancia total (km)": 3.3,
+        "Velocidad promedio (km/h)": 6.14,
+        "Calorías": 155
+    },
+    {
+        "Archivo": "2017-07-28T08_00_43-05_00_PT29M33.097S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/07/2017 13:00:43",
+        "Fin": "28/07/2017 13:36:39",
+        "Duración (min)": 35.93,
+        "Distancia total (km)": 1.77,
+        "Velocidad promedio (km/h)": 2.96,
+        "Calorías": 130
+    },
+    {
+        "Archivo": "2017-07-28T17_01_20-05_00_PT30M51.96S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/07/2017 22:01:20",
+        "Fin": "28/07/2017 22:34:49",
+        "Duración (min)": 33.48,
+        "Distancia total (km)": 4.81,
+        "Velocidad promedio (km/h)": 8.62,
+        "Calorías": 152
+    },
+    {
+        "Archivo": "2017-07-29T06_22_20-05_00_PT28M32.746S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/07/2017 11:22:20",
+        "Fin": "29/07/2017 11:55:34",
+        "Duración (min)": 33.23,
+        "Distancia total (km)": 4.34,
+        "Velocidad promedio (km/h)": 7.83,
+        "Calorías": 142
+    },
+    {
+        "Archivo": "2017-07-29T15_22_28-05_00_PT32M38.928S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/07/2017 20:22:28",
+        "Fin": "29/07/2017 20:57:26",
+        "Duración (min)": 34.97,
+        "Distancia total (km)": 6.45,
+        "Velocidad promedio (km/h)": 11.06,
+        "Calorías": 137
+    },
+    {
+        "Archivo": "2017-07-31T06_31_59-05_00_PT25M58.164S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "31/07/2017 11:31:59",
+        "Fin": "31/07/2017 11:59:35",
+        "Duración (min)": 27.6,
+        "Distancia total (km)": 4.93,
+        "Velocidad promedio (km/h)": 10.71,
+        "Calorías": 181
+    },
+    {
+        "Archivo": "2017-07-31T17_27_00-05_00_PT30M41.726S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "31/07/2017 22:27:00",
+        "Fin": "31/07/2017 22:59:13",
+        "Duración (min)": 32.22,
+        "Distancia total (km)": 4.3,
+        "Velocidad promedio (km/h)": 8.01,
+        "Calorías": 147
+    },
+    {
+        "Archivo": "2017-08-01T06_28_40-05_00_PT25M35.761S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/08/2017 11:28:40",
+        "Fin": "01/08/2017 11:55:22",
+        "Duración (min)": 26.7,
+        "Distancia total (km)": 2.79,
+        "Velocidad promedio (km/h)": 6.26,
+        "Calorías": 183
+    },
+    {
+        "Archivo": "2017-08-01T15_19_20-05_00_PT32M43.022S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/08/2017 20:19:20",
+        "Fin": "01/08/2017 20:53:19",
+        "Duración (min)": 33.98,
+        "Distancia total (km)": 3.94,
+        "Velocidad promedio (km/h)": 6.95,
+        "Calorías": 147
+    },
+    {
+        "Archivo": "2017-08-02T06_17_05-05_00_PT30M11.206S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/08/2017 11:17:05",
+        "Fin": "02/08/2017 11:48:38",
+        "Duración (min)": 31.55,
+        "Distancia total (km)": 7.14,
+        "Velocidad promedio (km/h)": 13.58,
+        "Calorías": 147
+    },
+    {
+        "Archivo": "2017-08-02T15_14_31-05_00_PT18M50.818S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/08/2017 20:14:31",
+        "Fin": "02/08/2017 20:34:52",
+        "Duración (min)": 20.35,
+        "Distancia total (km)": 1.24,
+        "Velocidad promedio (km/h)": 3.64,
+        "Calorías": 143
+    },
+    {
+        "Archivo": "2017-08-03T17_17_07-05_00_PT19M31.02S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/08/2017 22:17:07",
+        "Fin": "03/08/2017 22:36:44",
+        "Duración (min)": 19.62,
+        "Distancia total (km)": 5.14,
+        "Velocidad promedio (km/h)": 15.73,
+        "Calorías": 89
+    },
+    {
+        "Archivo": "2017-08-04T06_25_58-05_00_PT28M50.098S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/08/2017 11:25:58",
+        "Fin": "04/08/2017 11:56:10",
+        "Duración (min)": 30.2,
+        "Distancia total (km)": 4.44,
+        "Velocidad promedio (km/h)": 8.83,
+        "Calorías": 159
+    },
+    {
+        "Archivo": "2017-08-04T15_18_01-05_00_PT32M26.046S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/08/2017 20:18:01",
+        "Fin": "04/08/2017 20:53:06",
+        "Duración (min)": 35.08,
+        "Distancia total (km)": 2.17,
+        "Velocidad promedio (km/h)": 3.72,
+        "Calorías": 145
+    },
+    {
+        "Archivo": "2017-08-05T06_28_33-05_00_PT26M28.693S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/08/2017 11:28:33",
+        "Fin": "05/08/2017 11:59:00",
+        "Duración (min)": 30.45,
+        "Distancia total (km)": 2.72,
+        "Velocidad promedio (km/h)": 5.36,
+        "Calorías": 162
+    },
+    {
+        "Archivo": "2017-08-05T15_05_30-05_00_PT29M25.98S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/08/2017 20:05:30",
+        "Fin": "05/08/2017 20:35:30",
+        "Duración (min)": 30.0,
+        "Distancia total (km)": 4.5,
+        "Velocidad promedio (km/h)": 9.01,
+        "Calorías": 166
+    },
+    {
+        "Archivo": "2017-08-07T06_22_47-05_00_PT30M6.928S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/08/2017 11:22:47",
+        "Fin": "07/08/2017 11:58:08",
+        "Duración (min)": 35.35,
+        "Distancia total (km)": 3.99,
+        "Velocidad promedio (km/h)": 6.77,
+        "Calorías": 152
+    },
+    {
+        "Archivo": "2017-08-07T15_25_57-05_00_PT30M25.516S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/08/2017 20:25:57",
+        "Fin": "07/08/2017 20:58:56",
+        "Duración (min)": 32.98,
+        "Distancia total (km)": 6.38,
+        "Velocidad promedio (km/h)": 11.6,
+        "Calorías": 161
+    },
+    {
+        "Archivo": "2017-08-09T06_22_56-05_00_PT28M29.338S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/08/2017 11:22:56",
+        "Fin": "09/08/2017 11:54:06",
+        "Duración (min)": 31.17,
+        "Distancia total (km)": 2.55,
+        "Velocidad promedio (km/h)": 4.9,
+        "Calorías": 176
+    },
+    {
+        "Archivo": "2017-08-09T15_30_08-05_00_PT36M35.466S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/08/2017 20:30:08",
+        "Fin": "09/08/2017 21:10:23",
+        "Duración (min)": 40.25,
+        "Distancia total (km)": 3.8,
+        "Velocidad promedio (km/h)": 5.66,
+        "Calorías": 275
+    },
+    {
+        "Archivo": "2017-08-10T08_31_48-05_00_PT33M46.543S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/08/2017 13:31:48",
+        "Fin": "10/08/2017 14:14:21",
+        "Duración (min)": 42.56,
+        "Distancia total (km)": 2.66,
+        "Velocidad promedio (km/h)": 3.75,
+        "Calorías": 255
+    },
+    {
+        "Archivo": "2017-08-10T17_22_13-05_00_PT29M25.505S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/08/2017 22:22:13",
+        "Fin": "10/08/2017 22:52:44",
+        "Duración (min)": 30.52,
+        "Distancia total (km)": 5.77,
+        "Velocidad promedio (km/h)": 11.34,
+        "Calorías": 173
+    },
+    {
+        "Archivo": "2017-08-11T06_28_23-05_00_PT27M12.601S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/08/2017 11:28:23",
+        "Fin": "11/08/2017 11:57:41",
+        "Duración (min)": 29.3,
+        "Distancia total (km)": 5.15,
+        "Velocidad promedio (km/h)": 10.55,
+        "Calorías": 165
+    },
+    {
+        "Archivo": "2017-08-11T15_22_26-05_00_PT30M42.11S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/08/2017 20:22:26",
+        "Fin": "11/08/2017 20:55:37",
+        "Duración (min)": 33.18,
+        "Distancia total (km)": 3.22,
+        "Velocidad promedio (km/h)": 5.81,
+        "Calorías": 158
+    },
+    {
+        "Archivo": "2017-08-14T06_24_28-05_00_PT29M12.021S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "14/08/2017 11:24:28",
+        "Fin": "14/08/2017 11:55:17",
+        "Duración (min)": 30.82,
+        "Distancia total (km)": 4.15,
+        "Velocidad promedio (km/h)": 8.08,
+        "Calorías": 147
+    },
+    {
+        "Archivo": "2017-08-15T06_37_05-05_00_PT25M58.52S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/08/2017 11:37:05",
+        "Fin": "15/08/2017 12:09:32",
+        "Duración (min)": 32.45,
+        "Distancia total (km)": 3.67,
+        "Velocidad promedio (km/h)": 6.79,
+        "Calorías": 153
+    },
+    {
+        "Archivo": "2017-08-15T15_08_03-05_00_PT31M43.898S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/08/2017 20:08:03",
+        "Fin": "15/08/2017 20:42:42",
+        "Duración (min)": 34.65,
+        "Distancia total (km)": 3.69,
+        "Velocidad promedio (km/h)": 6.4,
+        "Calorías": 155
+    },
+    {
+        "Archivo": "2017-08-16T06_14_41-05_00_PT28M14.961S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/08/2017 11:14:41",
+        "Fin": "16/08/2017 11:45:24",
+        "Duración (min)": 30.72,
+        "Distancia total (km)": 4.76,
+        "Velocidad promedio (km/h)": 9.3,
+        "Calorías": 162
+    },
+    {
+        "Archivo": "2017-08-16T15_11_01-05_00_PT32M32.213S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/08/2017 20:11:01",
+        "Fin": "16/08/2017 20:45:59",
+        "Duración (min)": 34.97,
+        "Distancia total (km)": 2.83,
+        "Velocidad promedio (km/h)": 4.86,
+        "Calorías": 146
+    },
+    {
+        "Archivo": "2017-08-17T16_51_17-05_00_PT30M22.834S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "17/08/2017 21:51:17",
+        "Fin": "17/08/2017 22:22:49",
+        "Duración (min)": 31.53,
+        "Distancia total (km)": 5.82,
+        "Velocidad promedio (km/h)": 11.07,
+        "Calorías": 162
+    },
+    {
+        "Archivo": "2017-08-18T06_28_19-05_00_PT28M2.766S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/08/2017 11:28:19",
+        "Fin": "18/08/2017 11:58:48",
+        "Duración (min)": 30.48,
+        "Distancia total (km)": 3.18,
+        "Velocidad promedio (km/h)": 6.26,
+        "Calorías": 152
+    },
+    {
+        "Archivo": "2017-08-19T15_13_05-05_00_PT32M56.874S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "19/08/2017 20:13:05",
+        "Fin": "19/08/2017 20:47:25",
+        "Duración (min)": 34.33,
+        "Distancia total (km)": 3.54,
+        "Velocidad promedio (km/h)": 6.18,
+        "Calorías": 144
+    },
+    {
+        "Archivo": "2017-08-22T06_21_35-05_00_PT28M17.177S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/08/2017 11:21:35",
+        "Fin": "22/08/2017 11:51:35",
+        "Duración (min)": 30.0,
+        "Distancia total (km)": 3.07,
+        "Velocidad promedio (km/h)": 6.13,
+        "Calorías": 164
+    },
+    {
+        "Archivo": "2017-08-22T15_20_58-05_00_PT31M57.48S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/08/2017 20:20:58",
+        "Fin": "22/08/2017 20:54:42",
+        "Duración (min)": 33.73,
+        "Distancia total (km)": 5.1,
+        "Velocidad promedio (km/h)": 9.07,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-08-23T06_21_31-05_00_PT29M27.883S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/08/2017 11:21:31",
+        "Fin": "23/08/2017 11:52:38",
+        "Duración (min)": 31.12,
+        "Distancia total (km)": 4.06,
+        "Velocidad promedio (km/h)": 7.82,
+        "Calorías": 167
+    },
+    {
+        "Archivo": "2017-08-23T15_24_08-05_00_PT30M52.834S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/08/2017 20:24:08",
+        "Fin": "23/08/2017 20:58:59",
+        "Duración (min)": 34.85,
+        "Distancia total (km)": 4.41,
+        "Velocidad promedio (km/h)": 7.6,
+        "Calorías": 148
+    },
+    {
+        "Archivo": "2017-08-24T08_20_12-05_00_PT26M59.703S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/08/2017 13:20:12",
+        "Fin": "24/08/2017 13:49:29",
+        "Duración (min)": 29.28,
+        "Distancia total (km)": 2.83,
+        "Velocidad promedio (km/h)": 5.8,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-08-24T16_44_55-05_00_PT29M36.018S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/08/2017 21:44:55",
+        "Fin": "24/08/2017 22:17:04",
+        "Duración (min)": 32.15,
+        "Distancia total (km)": 3.13,
+        "Velocidad promedio (km/h)": 5.83,
+        "Calorías": 171
+    },
+    {
+        "Archivo": "2017-08-25T06_24_29-05_00_PT27M53.064S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/08/2017 11:24:29",
+        "Fin": "25/08/2017 11:53:35",
+        "Duración (min)": 29.1,
+        "Distancia total (km)": 4.02,
+        "Velocidad promedio (km/h)": 8.3,
+        "Calorías": 171
+    },
+    {
+        "Archivo": "2017-08-25T15_05_09-05_00_PT29M8.014S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/08/2017 20:05:09",
+        "Fin": "25/08/2017 20:36:34",
+        "Duración (min)": 31.42,
+        "Distancia total (km)": 5.23,
+        "Velocidad promedio (km/h)": 10.0,
+        "Calorías": 171
+    },
+    {
+        "Archivo": "2017-08-26T06_24_56-05_00_PT26M3.028S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/08/2017 11:24:56",
+        "Fin": "26/08/2017 11:52:17",
+        "Duración (min)": 27.35,
+        "Distancia total (km)": 5.17,
+        "Velocidad promedio (km/h)": 11.35,
+        "Calorías": 184
+    },
+    {
+        "Archivo": "2017-08-26T15_07_18-05_00_PT29M8.539S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/08/2017 20:07:18",
+        "Fin": "26/08/2017 20:37:00",
+        "Duración (min)": 29.7,
+        "Distancia total (km)": 6.57,
+        "Velocidad promedio (km/h)": 13.26,
+        "Calorías": 179
+    },
+    {
+        "Archivo": "2017-08-31T08_30_42-05_00_PT27M35.477S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "31/08/2017 13:30:42",
+        "Fin": "31/08/2017 14:06:12",
+        "Duración (min)": 35.5,
+        "Distancia total (km)": 4.36,
+        "Velocidad promedio (km/h)": 7.37,
+        "Calorías": 135
+    },
+    {
+        "Archivo": "2017-08-31T16_41_17-05_00_PT30M10.825S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "31/08/2017 21:41:17",
+        "Fin": "31/08/2017 22:13:09",
+        "Duración (min)": 31.87,
+        "Distancia total (km)": 4.07,
+        "Velocidad promedio (km/h)": 7.65,
+        "Calorías": 162
+    },
+    {
+        "Archivo": "2017-09-01T06_32_04-05_00_PT27M57.008S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/09/2017 11:32:04",
+        "Fin": "01/09/2017 12:01:33",
+        "Duración (min)": 29.48,
+        "Distancia total (km)": 2.81,
+        "Velocidad promedio (km/h)": 5.73,
+        "Calorías": 154
+    },
+    {
+        "Archivo": "2017-09-01T15_13_40-05_00_PT31M17.153S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/09/2017 20:13:40",
+        "Fin": "01/09/2017 20:47:28",
+        "Duración (min)": 33.8,
+        "Distancia total (km)": 4.19,
+        "Velocidad promedio (km/h)": 7.44,
+        "Calorías": 148
+    },
+    {
+        "Archivo": "2017-09-02T06_42_41-05_00_PT22M29.442S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/09/2017 11:42:41",
+        "Fin": "02/09/2017 12:05:27",
+        "Duración (min)": 22.77,
+        "Distancia total (km)": 9.0,
+        "Velocidad promedio (km/h)": 23.72,
+        "Calorías": 243
+    },
+    {
+        "Archivo": "2017-09-02T15_13_30-05_00_PT1H15M25.752S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/09/2017 20:13:30",
+        "Fin": "02/09/2017 21:54:34",
+        "Duración (min)": 101.07,
+        "Distancia total (km)": 4.03,
+        "Velocidad promedio (km/h)": 2.39,
+        "Calorías": 302
+    },
+    {
+        "Archivo": "2017-09-04T08_32_37-05_00_PT31M40.982S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/09/2017 13:32:37",
+        "Fin": "04/09/2017 14:06:42",
+        "Duración (min)": 34.08,
+        "Distancia total (km)": 1.77,
+        "Velocidad promedio (km/h)": 3.12,
+        "Calorías": 139
+    },
+    {
+        "Archivo": "2017-09-04T17_17_30-05_00_PT29M34.055S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/09/2017 22:17:30",
+        "Fin": "04/09/2017 22:48:58",
+        "Duración (min)": 31.47,
+        "Distancia total (km)": 3.23,
+        "Velocidad promedio (km/h)": 6.16,
+        "Calorías": 168
+    },
+    {
+        "Archivo": "2017-09-05T08_19_47-05_00_PT33M45.748S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/09/2017 13:19:47",
+        "Fin": "05/09/2017 13:56:48",
+        "Duración (min)": 37.02,
+        "Distancia total (km)": 1.76,
+        "Velocidad promedio (km/h)": 2.85,
+        "Calorías": 255
+    },
+    {
+        "Archivo": "2017-09-05T17_49_28-05_00_PT6S_Ciclismo de ruta.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/09/2017 22:49:28",
+        "Fin": "05/09/2017 22:49:34",
+        "Duración (min)": 0.1,
+        "Distancia total (km)": 0.0,
+        "Velocidad promedio (km/h)": 0.0,
+        "Calorías": 1
+    },
+    {
+        "Archivo": "2017-09-06T08_21_55-05_00_PT32M12.889S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/09/2017 13:21:55",
+        "Fin": "06/09/2017 14:00:56",
+        "Duración (min)": 39.02,
+        "Distancia total (km)": 2.4,
+        "Velocidad promedio (km/h)": 3.69,
+        "Calorías": 241
+    },
+    {
+        "Archivo": "2017-09-06T16_38_11-05_00_PT29M19.295S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/09/2017 21:38:11",
+        "Fin": "06/09/2017 22:10:57",
+        "Duración (min)": 32.77,
+        "Distancia total (km)": 4.63,
+        "Velocidad promedio (km/h)": 8.48,
+        "Calorías": 162
+    },
+    {
+        "Archivo": "2017-09-07T08_19_09-05_00_PT32M21.9S_Ciclismo de r.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/09/2017 13:19:09",
+        "Fin": "07/09/2017 13:56:35",
+        "Duración (min)": 37.43,
+        "Distancia total (km)": 1.85,
+        "Velocidad promedio (km/h)": 2.96,
+        "Calorías": 125
+    },
+    {
+        "Archivo": "2017-09-07T16_39_14-05_00_PT34M8.976S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/09/2017 21:39:14",
+        "Fin": "07/09/2017 22:50:01",
+        "Duración (min)": 70.78,
+        "Distancia total (km)": 3.77,
+        "Velocidad promedio (km/h)": 3.19,
+        "Calorías": 258
+    },
+    {
+        "Archivo": "2017-09-08T08_42_51-05_00_PT27M16.027S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/09/2017 13:42:51",
+        "Fin": "08/09/2017 14:14:41",
+        "Duración (min)": 31.83,
+        "Distancia total (km)": 3.84,
+        "Velocidad promedio (km/h)": 7.23,
+        "Calorías": 154
+    },
+    {
+        "Archivo": "2017-09-08T16_26_54-05_00_PT28M15.519S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/09/2017 21:26:54",
+        "Fin": "08/09/2017 21:57:34",
+        "Duración (min)": 30.67,
+        "Distancia total (km)": 4.13,
+        "Velocidad promedio (km/h)": 8.08,
+        "Calorías": 188
+    },
+    {
+        "Archivo": "2017-09-11T08_26_21-05_00_PT29M39.961S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/09/2017 13:26:21",
+        "Fin": "11/09/2017 14:00:40",
+        "Duración (min)": 34.32,
+        "Distancia total (km)": 2.85,
+        "Velocidad promedio (km/h)": 4.99,
+        "Calorías": 143
+    },
+    {
+        "Archivo": "2017-09-11T16_42_09-05_00_PT30M28.81S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "11/09/2017 21:42:09",
+        "Fin": "11/09/2017 22:19:06",
+        "Duración (min)": 36.95,
+        "Distancia total (km)": 2.87,
+        "Velocidad promedio (km/h)": 4.66,
+        "Calorías": 142
+    },
+    {
+        "Archivo": "2017-09-12T08_30_28-05_00_PT28M14.389S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/09/2017 13:30:28",
+        "Fin": "12/09/2017 14:04:09",
+        "Duración (min)": 33.68,
+        "Distancia total (km)": 2.38,
+        "Velocidad promedio (km/h)": 4.25,
+        "Calorías": 142
+    },
+    {
+        "Archivo": "2017-09-12T17_02_12-05_00_PT28M47.865S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/09/2017 22:02:12",
+        "Fin": "12/09/2017 22:31:15",
+        "Duración (min)": 29.05,
+        "Distancia total (km)": 8.06,
+        "Velocidad promedio (km/h)": 16.64,
+        "Calorías": 187
+    },
+    {
+        "Archivo": "2017-09-13T08_23_03-05_00_PT30M50.689S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/09/2017 13:23:03",
+        "Fin": "13/09/2017 13:58:37",
+        "Duración (min)": 35.57,
+        "Distancia total (km)": 2.84,
+        "Velocidad promedio (km/h)": 4.78,
+        "Calorías": 164
+    },
+    {
+        "Archivo": "2017-09-13T16_55_16-05_00_PT1H1M29.565S_Ciclismo d.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/09/2017 21:55:16",
+        "Fin": "13/09/2017 23:03:45",
+        "Duración (min)": 68.48,
+        "Distancia total (km)": 4.32,
+        "Velocidad promedio (km/h)": 3.78,
+        "Calorías": 359
+    },
+    {
+        "Archivo": "2017-09-14T16_45_50-05_00_PT30M51.666S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "14/09/2017 21:45:50",
+        "Fin": "14/09/2017 22:19:04",
+        "Duración (min)": 33.23,
+        "Distancia total (km)": 5.14,
+        "Velocidad promedio (km/h)": 9.29,
+        "Calorías": 157
+    },
+    {
+        "Archivo": "2017-09-15T06_27_36-05_00_PT28M19.543S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/09/2017 11:27:36",
+        "Fin": "15/09/2017 11:59:58",
+        "Duración (min)": 32.37,
+        "Distancia total (km)": 3.5,
+        "Velocidad promedio (km/h)": 6.48,
+        "Calorías": 159
+    },
+    {
+        "Archivo": "2017-09-15T15_19_04-05_00_PT32M39.798S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/09/2017 20:19:04",
+        "Fin": "15/09/2017 20:52:57",
+        "Duración (min)": 33.88,
+        "Distancia total (km)": 5.48,
+        "Velocidad promedio (km/h)": 9.71,
+        "Calorías": 152
+    },
+    {
+        "Archivo": "2017-09-16T06_40_25-05_00_PT24M42.23S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/09/2017 11:40:25",
+        "Fin": "16/09/2017 12:08:53",
+        "Duración (min)": 28.47,
+        "Distancia total (km)": 8.89,
+        "Velocidad promedio (km/h)": 18.74,
+        "Calorías": 180
+    },
+    {
+        "Archivo": "2017-09-16T15_20_57-05_00_PT29M20.016S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/09/2017 20:20:57",
+        "Fin": "16/09/2017 20:51:14",
+        "Duración (min)": 30.28,
+        "Distancia total (km)": 3.4,
+        "Velocidad promedio (km/h)": 6.74,
+        "Calorías": 182
+    },
+    {
+        "Archivo": "2017-09-17T07_29_47-05_00_PT1H13M12.496S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "17/09/2017 12:29:47",
+        "Fin": "17/09/2017 13:51:36",
+        "Duración (min)": 81.82,
+        "Distancia total (km)": 8.81,
+        "Velocidad promedio (km/h)": 6.46,
+        "Calorías": 574
+    },
+    {
+        "Archivo": "2017-09-18T05_23_30-05_00_PT26M18.86S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/09/2017 10:23:30",
+        "Fin": "18/09/2017 10:50:35",
+        "Duración (min)": 27.08,
+        "Distancia total (km)": 9.85,
+        "Velocidad promedio (km/h)": 21.81,
+        "Calorías": 235
+    },
+    {
+        "Archivo": "2017-09-18T14_22_29-05_00_PT33M25S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/09/2017 19:22:29",
+        "Fin": "18/09/2017 19:55:54",
+        "Duración (min)": 33.42,
+        "Distancia total (km)": 10.5,
+        "Velocidad promedio (km/h)": 18.85,
+        "Calorías": 197
+    },
+    {
+        "Archivo": "2017-09-19T05_35_21-05_00_PT25M9.698S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "19/09/2017 10:35:21",
+        "Fin": "19/09/2017 11:05:02",
+        "Duración (min)": 29.68,
+        "Distancia total (km)": 8.53,
+        "Velocidad promedio (km/h)": 17.24,
+        "Calorías": 221
+    },
+    {
+        "Archivo": "2017-09-21T05_35_59-05_00_PT27M20.895S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/09/2017 10:35:59",
+        "Fin": "21/09/2017 11:03:39",
+        "Duración (min)": 27.67,
+        "Distancia total (km)": 9.83,
+        "Velocidad promedio (km/h)": 21.32,
+        "Calorías": 225
+    },
+    {
+        "Archivo": "2017-09-21T14_26_51-05_00_PT28M19.511S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/09/2017 19:26:51",
+        "Fin": "21/09/2017 19:59:49",
+        "Duración (min)": 32.97,
+        "Distancia total (km)": 3.27,
+        "Velocidad promedio (km/h)": 5.96,
+        "Calorías": 156
+    },
+    {
+        "Archivo": "2017-09-22T05_29_43-05_00_PT26M47.168S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/09/2017 10:29:43",
+        "Fin": "22/09/2017 10:59:32",
+        "Duración (min)": 29.82,
+        "Distancia total (km)": 8.45,
+        "Velocidad promedio (km/h)": 17.0,
+        "Calorías": 205
+    },
+    {
+        "Archivo": "2017-09-22T14_16_09-05_00_PT41M39.074S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "22/09/2017 19:16:09",
+        "Fin": "22/09/2017 20:04:54",
+        "Duración (min)": 48.75,
+        "Distancia total (km)": 5.51,
+        "Velocidad promedio (km/h)": 6.78,
+        "Calorías": 312
+    },
+    {
+        "Archivo": "2017-09-24T05_39_32-05_00_PT24M34.925S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "24/09/2017 10:39:32",
+        "Fin": "24/09/2017 11:06:04",
+        "Duración (min)": 26.53,
+        "Distancia total (km)": 9.94,
+        "Velocidad promedio (km/h)": 22.48,
+        "Calorías": 254
+    },
+    {
+        "Archivo": "2017-09-25T05_40_27-05_00_PT26M32.403S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/09/2017 10:40:27",
+        "Fin": "25/09/2017 11:10:12",
+        "Duración (min)": 29.75,
+        "Distancia total (km)": 9.32,
+        "Velocidad promedio (km/h)": 18.79,
+        "Calorías": 220
+    },
+    {
+        "Archivo": "2017-09-26T05_31_00-05_00_PT26M46.157S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/09/2017 10:31:00",
+        "Fin": "26/09/2017 10:59:54",
+        "Duración (min)": 28.9,
+        "Distancia total (km)": 9.99,
+        "Velocidad promedio (km/h)": 20.75,
+        "Calorías": 226
+    },
+    {
+        "Archivo": "2017-09-26T14_27_23-05_00_PT35M13.122S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/09/2017 19:27:23",
+        "Fin": "26/09/2017 20:05:04",
+        "Duración (min)": 37.68,
+        "Distancia total (km)": 2.26,
+        "Velocidad promedio (km/h)": 3.6,
+        "Calorías": 178
+    },
+    {
+        "Archivo": "2017-09-27T05_21_11-05_00_PT32M13.12S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/09/2017 10:21:11",
+        "Fin": "27/09/2017 10:55:56",
+        "Duración (min)": 34.75,
+        "Distancia total (km)": 4.05,
+        "Velocidad promedio (km/h)": 6.99,
+        "Calorías": 168
+    },
+    {
+        "Archivo": "2017-09-27T14_23_47-05_00_PT46M25.268S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/09/2017 19:23:47",
+        "Fin": "27/09/2017 20:24:10",
+        "Duración (min)": 60.38,
+        "Distancia total (km)": 2.67,
+        "Velocidad promedio (km/h)": 2.65,
+        "Calorías": 350
+    },
+    {
+        "Archivo": "2017-09-28T08_32_36-05_00_PT29M47.807S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/09/2017 13:32:36",
+        "Fin": "28/09/2017 14:06:34",
+        "Duración (min)": 33.97,
+        "Distancia total (km)": 3.41,
+        "Velocidad promedio (km/h)": 6.03,
+        "Calorías": 174
+    },
+    {
+        "Archivo": "2017-09-28T16_56_47-05_00_PT32M14.557S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "28/09/2017 21:56:47",
+        "Fin": "28/09/2017 22:32:23",
+        "Duración (min)": 35.6,
+        "Distancia total (km)": 5.38,
+        "Velocidad promedio (km/h)": 9.07,
+        "Calorías": 194
+    },
+    {
+        "Archivo": "2017-09-29T06_58_08-05_00_PT32M46.825S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/09/2017 11:58:08",
+        "Fin": "29/09/2017 12:33:26",
+        "Duración (min)": 35.3,
+        "Distancia total (km)": 5.17,
+        "Velocidad promedio (km/h)": 8.8,
+        "Calorías": 163
+    },
+    {
+        "Archivo": "2017-09-29T15_29_08-05_00_PT36M1.138S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/09/2017 20:29:08",
+        "Fin": "29/09/2017 21:06:28",
+        "Duración (min)": 37.33,
+        "Distancia total (km)": 6.58,
+        "Velocidad promedio (km/h)": 10.57,
+        "Calorías": 173
+    },
+    {
+        "Archivo": "2017-10-01T14_15_34-05_00_PT34M2.233S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/10/2017 19:15:34",
+        "Fin": "01/10/2017 19:50:36",
+        "Duración (min)": 35.03,
+        "Distancia total (km)": 5.2,
+        "Velocidad promedio (km/h)": 8.9,
+        "Calorías": 189
+    },
+    {
+        "Archivo": "2017-10-02T05_34_08-05_00_PT28M34.537S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/10/2017 10:34:08",
+        "Fin": "02/10/2017 11:04:31",
+        "Duración (min)": 30.38,
+        "Distancia total (km)": 3.89,
+        "Velocidad promedio (km/h)": 7.68,
+        "Calorías": 202
+    },
+    {
+        "Archivo": "2017-10-02T14_41_30-05_00_PT38M49.781S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/10/2017 19:41:30",
+        "Fin": "02/10/2017 20:24:30",
+        "Duración (min)": 43.0,
+        "Distancia total (km)": 3.51,
+        "Velocidad promedio (km/h)": 4.9,
+        "Calorías": 170
+    },
+    {
+        "Archivo": "2017-10-03T05_44_30-05_00_PT26M32.528S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "03/10/2017 10:44:30",
+        "Fin": "03/10/2017 11:13:35",
+        "Duración (min)": 29.08,
+        "Distancia total (km)": 6.66,
+        "Velocidad promedio (km/h)": 13.73,
+        "Calorías": 216
+    },
+    {
+        "Archivo": "2017-10-04T05_23_37-05_00_PT26M56.534S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/10/2017 10:23:37",
+        "Fin": "04/10/2017 10:53:04",
+        "Duración (min)": 29.45,
+        "Distancia total (km)": 10.23,
+        "Velocidad promedio (km/h)": 20.83,
+        "Calorías": 234
+    },
+    {
+        "Archivo": "2017-10-04T14_13_21-05_00_PT34M15.424S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "04/10/2017 19:13:21",
+        "Fin": "04/10/2017 19:51:24",
+        "Duración (min)": 38.06,
+        "Distancia total (km)": 5.2,
+        "Velocidad promedio (km/h)": 8.19,
+        "Calorías": 258
+    },
+    {
+        "Archivo": "2017-10-05T05_32_34-05_00_PT27M19.777S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/10/2017 10:32:34",
+        "Fin": "05/10/2017 11:01:30",
+        "Duración (min)": 28.93,
+        "Distancia total (km)": 10.22,
+        "Velocidad promedio (km/h)": 21.19,
+        "Calorías": 236
+    },
+    {
+        "Archivo": "2017-10-05T14_15_03-05_00_PT35M20.587S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "05/10/2017 19:15:03",
+        "Fin": "05/10/2017 19:53:24",
+        "Duración (min)": 38.35,
+        "Distancia total (km)": 5.54,
+        "Velocidad promedio (km/h)": 8.68,
+        "Calorías": 176
+    },
+    {
+        "Archivo": "2017-10-06T05_30_32-05_00_PT27M46.643S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/10/2017 10:30:32",
+        "Fin": "06/10/2017 11:03:23",
+        "Duración (min)": 32.85,
+        "Distancia total (km)": 5.12,
+        "Velocidad promedio (km/h)": 9.34,
+        "Calorías": 212
+    },
+    {
+        "Archivo": "2017-10-06T14_19_34-05_00_PT37M44.858S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "06/10/2017 19:19:34",
+        "Fin": "06/10/2017 20:00:47",
+        "Duración (min)": 41.22,
+        "Distancia total (km)": 3.15,
+        "Velocidad promedio (km/h)": 4.59,
+        "Calorías": 155
+    },
+    {
+        "Archivo": "2017-10-07T07_44_16-05_00_PT1H11M2.003S_Ciclismo d.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "07/10/2017 12:44:16",
+        "Fin": "07/10/2017 14:09:14",
+        "Duración (min)": 84.97,
+        "Distancia total (km)": 4.83,
+        "Velocidad promedio (km/h)": 3.41,
+        "Calorías": 409
+    },
+    {
+        "Archivo": "2017-10-08T05_37_27-05_00_PT25M36S_Ciclismo de rut.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "08/10/2017 10:37:27",
+        "Fin": "08/10/2017 11:03:03",
+        "Duración (min)": 25.6,
+        "Distancia total (km)": 9.4,
+        "Velocidad promedio (km/h)": 22.04,
+        "Calorías": 224
+    },
+    {
+        "Archivo": "2017-10-09T05_30_33-05_00_PT26M35.463S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/10/2017 10:30:33",
+        "Fin": "09/10/2017 11:01:08",
+        "Duración (min)": 30.58,
+        "Distancia total (km)": 10.2,
+        "Velocidad promedio (km/h)": 20.02,
+        "Calorías": 226
+    },
+    {
+        "Archivo": "2017-10-09T14_30_37-05_00_PT13M11.214S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/10/2017 19:30:37",
+        "Fin": "09/10/2017 19:45:50",
+        "Duración (min)": 15.23,
+        "Distancia total (km)": 3.93,
+        "Velocidad promedio (km/h)": 15.48,
+        "Calorías": 60
+    },
+    {
+        "Archivo": "2017-10-09T15_53_21-05_00_PT24M38.054S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "09/10/2017 20:53:21",
+        "Fin": "09/10/2017 21:19:50",
+        "Duración (min)": 26.48,
+        "Distancia total (km)": 4.0,
+        "Velocidad promedio (km/h)": 9.06,
+        "Calorías": 120
+    },
+    {
+        "Archivo": "2017-10-10T05_26_58-05_00_PT30M45.747S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "10/10/2017 10:26:58",
+        "Fin": "10/10/2017 10:59:44",
+        "Duración (min)": 32.77,
+        "Distancia total (km)": 7.08,
+        "Velocidad promedio (km/h)": 12.96,
+        "Calorías": 310
+    },
+    {
+        "Archivo": "2017-10-12T05_37_23-05_00_PT25M59.512S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/10/2017 10:37:23",
+        "Fin": "12/10/2017 11:06:32",
+        "Duración (min)": 29.15,
+        "Distancia total (km)": 6.93,
+        "Velocidad promedio (km/h)": 14.26,
+        "Calorías": 231
+    },
+    {
+        "Archivo": "2017-10-12T14_23_20-05_00_PT13M27.946S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/10/2017 19:23:20",
+        "Fin": "12/10/2017 19:37:49",
+        "Duración (min)": 14.48,
+        "Distancia total (km)": 2.6,
+        "Velocidad promedio (km/h)": 10.78,
+        "Calorías": 101
+    },
+    {
+        "Archivo": "2017-10-12T15_09_21-05_00_PT42M42.169S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "12/10/2017 20:09:21",
+        "Fin": "12/10/2017 20:53:53",
+        "Duración (min)": 44.53,
+        "Distancia total (km)": 3.32,
+        "Velocidad promedio (km/h)": 4.48,
+        "Calorías": 285
+    },
+    {
+        "Archivo": "2017-10-13T05_33_58-05_00_PT30M13.715S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/10/2017 10:33:58",
+        "Fin": "13/10/2017 11:05:45",
+        "Duración (min)": 31.78,
+        "Distancia total (km)": 9.56,
+        "Velocidad promedio (km/h)": 18.04,
+        "Calorías": 335
+    },
+    {
+        "Archivo": "2017-10-13T14_14_16-05_00_PT51M22.223S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "13/10/2017 19:14:16",
+        "Fin": "13/10/2017 20:24:57",
+        "Duración (min)": 70.68,
+        "Distancia total (km)": 2.65,
+        "Velocidad promedio (km/h)": 2.25,
+        "Calorías": 387
+    },
+    {
+        "Archivo": "2017-10-14T07_26_25-05_00_PT1H24M57.103S_Ciclismo_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "14/10/2017 12:26:25",
+        "Fin": "14/10/2017 13:59:57",
+        "Duración (min)": 93.53,
+        "Distancia total (km)": 12.04,
+        "Velocidad promedio (km/h)": 7.73,
+        "Calorías": 725
+    },
+    {
+        "Archivo": "2017-10-15T05_32_32-05_00_PT28M33.369S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/10/2017 10:32:32",
+        "Fin": "15/10/2017 11:05:40",
+        "Duración (min)": 33.13,
+        "Distancia total (km)": 6.74,
+        "Velocidad promedio (km/h)": 12.21,
+        "Calorías": 198
+    },
+    {
+        "Archivo": "2017-10-15T14_16_44-05_00_PT41M55.042S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "15/10/2017 19:16:44",
+        "Fin": "15/10/2017 20:51:56",
+        "Duración (min)": 95.2,
+        "Distancia total (km)": 3.17,
+        "Velocidad promedio (km/h)": 2.0,
+        "Calorías": 315
+    },
+    {
+        "Archivo": "2017-10-16T05_21_01-05_00_PT35M24.798S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/10/2017 10:21:01",
+        "Fin": "16/10/2017 11:02:09",
+        "Duración (min)": 41.13,
+        "Distancia total (km)": 3.67,
+        "Velocidad promedio (km/h)": 5.35,
+        "Calorías": 229
+    },
+    {
+        "Archivo": "2017-10-16T14_13_18-05_00_PT41M55.062S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "16/10/2017 19:13:18",
+        "Fin": "16/10/2017 19:57:55",
+        "Duración (min)": 44.62,
+        "Distancia total (km)": 4.67,
+        "Velocidad promedio (km/h)": 6.28,
+        "Calorías": 249
+    },
+    {
+        "Archivo": "2017-10-17T05_24_02-05_00_PT36M32.356S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "17/10/2017 10:24:02",
+        "Fin": "17/10/2017 11:02:44",
+        "Duración (min)": 38.7,
+        "Distancia total (km)": 13.3,
+        "Velocidad promedio (km/h)": 20.61,
+        "Calorías": 338
+    },
+    {
+        "Archivo": "2017-10-17T14_13_08-05_00_PT41M59.222S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "17/10/2017 19:13:08",
+        "Fin": "17/10/2017 20:01:49",
+        "Duración (min)": 48.68,
+        "Distancia total (km)": 4.65,
+        "Velocidad promedio (km/h)": 5.73,
+        "Calorías": 235
+    },
+    {
+        "Archivo": "2017-10-18T05_22_42-05_00_PT33M22.855S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/10/2017 10:22:42",
+        "Fin": "18/10/2017 10:56:33",
+        "Duración (min)": 33.85,
+        "Distancia total (km)": 13.03,
+        "Velocidad promedio (km/h)": 23.1,
+        "Calorías": 338
+    },
+    {
+        "Archivo": "2017-10-18T14_28_21-05_00_PT32M50.908S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "18/10/2017 19:28:21",
+        "Fin": "18/10/2017 20:07:05",
+        "Duración (min)": 38.73,
+        "Distancia total (km)": 3.29,
+        "Velocidad promedio (km/h)": 5.09,
+        "Calorías": 138
+    },
+    {
+        "Archivo": "2017-10-19T14_39_07-05_00_PT34M24.516S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "19/10/2017 19:39:07",
+        "Fin": "19/10/2017 20:17:43",
+        "Duración (min)": 38.6,
+        "Distancia total (km)": 4.65,
+        "Velocidad promedio (km/h)": 7.22,
+        "Calorías": 136
+    },
+    {
+        "Archivo": "2017-10-20T05_33_39-05_00_PT30M23.059S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "20/10/2017 10:33:39",
+        "Fin": "20/10/2017 11:07:38",
+        "Duración (min)": 33.98,
+        "Distancia total (km)": 5.1,
+        "Velocidad promedio (km/h)": 9.01,
+        "Calorías": 258
+    },
+    {
+        "Archivo": "2017-10-21T05_25_16-05_00_PT28M52.209S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/10/2017 10:25:16",
+        "Fin": "21/10/2017 11:05:28",
+        "Duración (min)": 40.2,
+        "Distancia total (km)": 4.68,
+        "Velocidad promedio (km/h)": 6.98,
+        "Calorías": 130
+    },
+    {
+        "Archivo": "2017-10-21T15_10_52-05_00_PT27M40.572S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "21/10/2017 20:10:52",
+        "Fin": "21/10/2017 20:41:37",
+        "Duración (min)": 30.75,
+        "Distancia total (km)": 4.66,
+        "Velocidad promedio (km/h)": 9.09,
+        "Calorías": 126
+    },
+    {
+        "Archivo": "2017-10-23T05_28_11-05_00_PT31M51.03S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "23/10/2017 10:28:11",
+        "Fin": "23/10/2017 11:00:45",
+        "Duración (min)": 32.57,
+        "Distancia total (km)": 7.74,
+        "Velocidad promedio (km/h)": 14.26,
+        "Calorías": 272
+    },
+    {
+        "Archivo": "2017-10-25T15_33_19-05_00_PT27M5.573S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "25/10/2017 20:33:19",
+        "Fin": "25/10/2017 21:02:22",
+        "Duración (min)": 29.05,
+        "Distancia total (km)": 2.87,
+        "Velocidad promedio (km/h)": 5.93,
+        "Calorías": 133
+    },
+    {
+        "Archivo": "2017-10-26T06_26_46-05_00_PT26M20.499S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/10/2017 11:26:46",
+        "Fin": "26/10/2017 11:55:11",
+        "Duración (min)": 28.42,
+        "Distancia total (km)": 2.85,
+        "Velocidad promedio (km/h)": 6.02,
+        "Calorías": 195
+    },
+    {
+        "Archivo": "2017-10-26T15_11_13-05_00_PT1H42.548S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "26/10/2017 20:11:13",
+        "Fin": "26/10/2017 21:15:23",
+        "Duración (min)": 64.17,
+        "Distancia total (km)": 9.35,
+        "Velocidad promedio (km/h)": 8.74,
+        "Calorías": 429
+    },
+    {
+        "Archivo": "2017-10-27T06_16_49-05_00_PT38M14.532S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/10/2017 11:16:49",
+        "Fin": "27/10/2017 11:57:48",
+        "Duración (min)": 40.98,
+        "Distancia total (km)": 3.81,
+        "Velocidad promedio (km/h)": 5.58,
+        "Calorías": 273
+    },
+    {
+        "Archivo": "2017-10-27T15_26_27-05_00_PT34M44.846S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "27/10/2017 20:26:27",
+        "Fin": "27/10/2017 21:05:11",
+        "Duración (min)": 38.73,
+        "Distancia total (km)": 3.08,
+        "Velocidad promedio (km/h)": 4.77,
+        "Calorías": 167
+    },
+    {
+        "Archivo": "2017-10-29T05_31_05-06_00_PT31M46.361S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/10/2017 11:31:05",
+        "Fin": "29/10/2017 12:05:55",
+        "Duración (min)": 34.83,
+        "Distancia total (km)": 3.42,
+        "Velocidad promedio (km/h)": 5.89,
+        "Calorías": 154
+    },
+    {
+        "Archivo": "2017-10-29T14_35_50-06_00_PT29M9.931S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "29/10/2017 20:35:50",
+        "Fin": "29/10/2017 21:06:50",
+        "Duración (min)": 31.0,
+        "Distancia total (km)": 3.97,
+        "Velocidad promedio (km/h)": 7.69,
+        "Calorías": 174
+    },
+    {
+        "Archivo": "2017-10-30T05_28_56-06_00_PT31M40.878S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "30/10/2017 11:28:56",
+        "Fin": "30/10/2017 12:00:50",
+        "Duración (min)": 31.9,
+        "Distancia total (km)": 8.69,
+        "Velocidad promedio (km/h)": 16.34,
+        "Calorías": 251
+    },
+    {
+        "Archivo": "2017-10-30T14_28_18-06_00_PT36M49.458S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "30/10/2017 20:28:18",
+        "Fin": "30/10/2017 21:29:24",
+        "Duración (min)": 61.1,
+        "Distancia total (km)": 5.07,
+        "Velocidad promedio (km/h)": 4.98,
+        "Calorías": 278
+    },
+    {
+        "Archivo": "2017-10-31T05_30_02-06_00_PT26M48.032S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "31/10/2017 11:30:02",
+        "Fin": "31/10/2017 11:57:19",
+        "Duración (min)": 27.28,
+        "Distancia total (km)": 10.27,
+        "Velocidad promedio (km/h)": 22.59,
+        "Calorías": 270
+    },
+    {
+        "Archivo": "2017-10-31T14_23_35-06_00_PT45M39.66S_Ciclismo de_.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "31/10/2017 20:23:35",
+        "Fin": "31/10/2017 21:13:05",
+        "Duración (min)": 49.5,
+        "Distancia total (km)": 5.59,
+        "Velocidad promedio (km/h)": 6.78,
+        "Calorías": 267
+    },
+    {
+        "Archivo": "2017-11-01T05_27_04-06_00_PT27M31.106S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/11/2017 11:27:04",
+        "Fin": "01/11/2017 11:58:01",
+        "Duración (min)": 30.95,
+        "Distancia total (km)": 9.71,
+        "Velocidad promedio (km/h)": 18.82,
+        "Calorías": 228
+    },
+    {
+        "Archivo": "2017-11-01T14_26_22-06_00_PT40M37.784S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "01/11/2017 20:26:22",
+        "Fin": "01/11/2017 21:09:01",
+        "Duración (min)": 42.65,
+        "Distancia total (km)": 3.85,
+        "Velocidad promedio (km/h)": 5.42,
+        "Calorías": 320
+    },
+    {
+        "Archivo": "2017-11-02T05_26_41-06_00_PT29M37.853S_Ciclismo de.tcx",
+        "Tipo de deporte": "Biking.road",
+        "Inicio": "02/11/2017 11:26:41",
+        "Fin": "02/11/2017 11:59:43",
+        "Duración (min)": 33.03,
+        "Distancia total (km)": 7.68,
+        "Velocidad promedio (km/h)": 13.95,
+        "Calorías": 193
+    }
+]
