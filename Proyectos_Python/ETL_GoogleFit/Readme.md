@@ -1,7 +1,9 @@
 # 🏃‍♂️ Proceso ETL Actividades Físicas – Google Fit  
 **Google Fit Activity Analysis – Google Takeout (.tcx)**
 
+<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
 <img src="image/Readme/1761613374687.png" alt="Resumen de actividades" width="60%" />
+</div>
 
 ---
 
@@ -27,7 +29,9 @@ To consolidate data from `.tcx` files into structured formats (`.csv`, `.json`, 
 
 ## 📂 Datos fuente | Source Data
 
+<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
 <img src="image/Readme/1761613415727.png" alt="Ejemplo de archivo .tcx" width="50%" />
+</div>
 
 - **Cantidad de archivos:** 5,168  
 - **Rango temporal:** 2016–2024  
@@ -50,7 +54,7 @@ To consolidate data from `.tcx` files into structured formats (`.csv`, `.json`, 
 
 ## 📊 Visualizaciones | Visualizations
 
-<div style="display: flex; justify-content: space-between; gap: 1rem;">
+<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
 <img src="image/Readme/1761600131341.png" alt="Calorías por actividad" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />  
 
 
@@ -68,17 +72,12 @@ To consolidate data from `.tcx` files into structured formats (`.csv`, `.json`, 
 | `.sql` | Scripts para base de datos | Carga en SQL Server |
 
 
-<div style="display: flex; justify-content: space-between; gap: 1rem;">
+<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
 
-  <img src="image/Readme/1761614456284.png" alt="Archivos CSV" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
-
-
-  <img src="image/Readme/1761614779233.png"    alt="Archivos JSON" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
+  <img src="image/Readme/1761614456284.png" alt="Archivos CSV" width="32%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
+  <img src="image/Readme/1761614779233.png"    alt="Archivos JSON" width="32%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
+  <img src="image/Readme/1761614644619.png" alt="Scripts SQL" width="32%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 </div>
-
-
-
-<img src="image/Readme/1761614644619.png" alt="Scripts SQL" width="40%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 
 ---
 

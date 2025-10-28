@@ -69,7 +69,6 @@ Se utilizan herramientas clave como **Excel**, **Power BI**, **SQL Server** y **
 - Automatización de reportes. 
 - Preparación de entregables para equipos técnicos y ejecutivos.
 
----
 
 ## 📎 Créditos
 
