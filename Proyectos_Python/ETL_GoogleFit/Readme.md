@@ -50,13 +50,10 @@ To consolidate data from thousands of `.tcx` files into structured formats (`.cs
 
 ## 📊 Visualizaciones | Visualizations
 
-A continuación se muestran algunos gráficos generados a partir de los datos extraídos:
-
-<img src="image/Readme/1761600131341.png" alt="Calorías por actividad" width="50%" style="border: 1px solid #ccc; border-radius: 6px; padding: 4px;" />  
-*Distribución de calorías quemadas por tipo de actividad*
-
-<img src="image/Readme/1761608091173.png" alt="Distancia acumulada" width="50%" style="border: 1px solid #ccc; border-radius: 6px; padding: 4px;" />  
-*Distancia total por año*
+<div style="display: flex; gap: 1rem;">
+<img src="image/Readme/1761600131341.png" alt="Calorías por actividad" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />  
+<img src="image/Readme/1761608091173.png" alt="Distancia acumulada" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />  
+</div>
 
 ---
 
@@ -68,14 +65,14 @@ A continuación se muestran algunos gráficos generados a partir de los datos ex
 | `.json` | Estructura jerárquica | Integración con APIs |
 | `.sql` | Scripts para base de datos | Carga en SQL Server |
 
-Imagen representativa Excel
-<img src="image/Readme/1761614456284.png" alt="Archivos CSV" width="40%" />  
 
-Imagen representativa Power Query
-<img src="image/Readme/1761614644619.png" alt="Archivos JSON" width="40%" />  
+<div style="display: flex; gap: 1rem;">
+  <img src="image/Readme/1761614456284.png" alt="Archivos CSV" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />
+  <img src="image/Readme/1761614644619.png" alt="Archivos JSON" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />
+</div>
 
-Imagen representativa SQL Server
-<img src="image/Readme/1761614779233.png" alt="Scripts SQL" width="40%" />
+
+<img src="image/Readme/1761614779233.png" alt="Scripts SQL" width="40%" style="border: 5px solid #ccc; border-radius: 6px; padding: 4px;" />
 
 ---
 
@@ -90,10 +87,7 @@ Imagen representativa SQL Server
 
 ## 📎 Créditos y licencia | Credits & License
 
-Este proyecto fue desarrollado por [Tu Nombre o Usuario].  
-This project was developed by [Your Name or Username].
-
-Licencia: MIT / Creative Commons / Personal (según corresponda).  
-License: MIT / Creative Commons / Personal (as applicable).
+Este proyecto fue desarrollado por [Omar Castro].  
+This project was developed by [Omar Castro].
 
 ---
