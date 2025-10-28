@@ -1,4 +1,4 @@
-# 🏃‍♂️ Análisis de Actividades Físicas – Google Fit  
+# 🏃‍♂️ Proceso ETL Actividades Físicas – Google Fit  
 **Google Fit Activity Analysis – Google Takeout (.tcx)**
 
 <img src="image/Readme/1761613374687.png" alt="Resumen de actividades" width="60%" />
@@ -15,9 +15,9 @@ This project extracts and analyzes physical activity data from `.tcx` files gene
 
 ## 🎯 Objetivo | Objective
 
-Consolidar la información contenida en miles de archivos `.tcx` para generar una base estructurada en formatos `.csv`, `.json` y `.sql`, que permita realizar análisis detallados sobre hábitos de entrenamiento.
+Consolidar la información contenida en archivos `.tcx` para generar una base estructurada en formatos `.csv`, `.json` y `.sql`, que permita realizar análisis detallados sobre hábitos de entrenamiento.
 
-To consolidate data from thousands of `.tcx` files into structured formats (`.csv`, `.json`, `.sql`) for detailed analysis of training habits.
+To consolidate data from `.tcx` files into structured formats (`.csv`, `.json`, `.sql`) for detailed analysis of training habits.
 
 > Esta muestra representa una vista parcial; la base completa será utilizada en proyectos con Power BI y SQL Server.
 
@@ -41,10 +41,10 @@ To consolidate data from thousands of `.tcx` files into structured formats (`.cs
 - **Variables por archivo:**  
   - Fecha de actividad  
   - Distancia recorrida  
-  - Velocidad promedio  
-  - Calorías estimadas  
+  - Velocidad promedio  (cuando este disponible)
+  - Calorías estimadas  (cuando este disponible)
   - Duración  
-  - Frecuencia cardíaca (cuando disponible)
+  - Frecuencia cardíaca (cuando este disponible)
 
 ---
 
@@ -86,12 +86,12 @@ To consolidate data from thousands of `.tcx` files into structured formats (`.cs
 
 - Dashboards interactivos en Power BI  
 - Consultas optimizadas en SQL Server  
-- Análisis longitudinal de hábitos de entrenamiento  
+- Análisis hábitos de entrenamiento  
 - Visualización de métricas clave por tipo de deporte
 
 ---
 
-## 📎 Créditos y licencia | Credits & License
+## 📎 Créditos | Credits
 
 Este proyecto fue desarrollado por [Omar Castro].  
 This project was developed by [Omar Castro].
