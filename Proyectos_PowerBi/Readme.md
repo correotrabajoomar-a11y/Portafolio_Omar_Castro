@@ -38,7 +38,7 @@ Proporcionar una herramienta analítica que permita monitorear, evaluar y optimi
 ## 📊 Visualizaciones
 
 <div style="text-align: center;">
-  <img src="image/Readme/[1760913754034.png" alt="Scripts SQL" width="70%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
+  <img src="image/Readme/1760913754034.png" alt="Scripts SQL" width="50%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 </div>
 
 ## 📎 Créditos | Credits
