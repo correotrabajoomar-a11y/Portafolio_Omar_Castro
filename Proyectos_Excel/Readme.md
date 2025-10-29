@@ -2,7 +2,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+<div style="text-align: center;">
   <img src="image/Readme/1761623772646.png" alt="Resumen de actividades" width="60%" style="border: 1px solid #090909ff; border-radius: 6px; padding: 4px;" />
 </div>
 ---

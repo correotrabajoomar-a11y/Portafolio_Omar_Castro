@@ -2,7 +2,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+<div style="text-align: center;">
 <img src="image/Readme/1760911907902.png" alt="Resumen de actividades" width="70%" />
 </div>
 
@@ -37,7 +37,7 @@ Proporcionar una herramienta analítica que permita monitorear, evaluar y optimi
 
 ## 📊 Visualizaciones
 
-<div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+<div style="text-align: center;">
   <img src="image/Readme/[1760913754034.png" alt="Scripts SQL" width="70%" style="border: 5px solid #252424ff; border-radius: 6px; padding: 4px;" />
 </div>
 
